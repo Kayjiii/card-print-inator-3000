@@ -1,0 +1,26 @@
+{
+  "name": "empty_typescript_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "scripts": {
+    "buildWatch": "tsc --watch",
+    "build": "tsc",
+    "start": "node --enable-source-maps .",
+    "devStart": "nodemon --ignore config --enable-source-maps .",
+    "dev": "concurrently \"npm run buildWatch\" \"npm run devStart\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "@types/node": "^20.6.0",
+    "concurrently": "^8.0.1",
+    "nodemon": "^2.0.22",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "fs": "^0.0.1-security"
+  }
+}
