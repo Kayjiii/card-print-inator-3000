@@ -83,8 +83,8 @@
     "name": "Zaubertrick",
     "element": "Wasser",
     "type": "Aktion: Zauber",
-    "content": "\nBlitzschnell\nVorhersage 3\nWähle 1:\n- Erschöpfe einen Charakter deiner Wahl, dann lege eine Schock-Marke auf diese Kreatur.\n- Eine Kreatur deiner Wahl erhält Listig bis zum Ende des Zuges.\n- Ziehe 2 Karten, dann werfe eine Karte ab.\nWenn dieser Zauber geupgradet wurde, verliert er Vorhersage 3.\n",
-    "mana": "Upgrade: 2 Energie",
+    "content": "\nBlitzschnell\nUpgrade: 2 Energie\nVorhersage 3\nWähle 1:\n- Erschöpfe einen Charakter deiner Wahl, dann lege eine Schock-Marke auf diese Kreatur.\n- Eine Kreatur deiner Wahl erhält Listig bis zum Ende des Zuges.\n- Ziehe 2 Karten, dann werfe eine Karte ab.\nWenn dieser Zauber geupgradet wurde, verliert er Vorhersage 3.\n",
+    "mana": "1 Energie",
     "statline": ""
   },
   {
@@ -219,8 +219,8 @@
     "name": "Winde des Winters",
     "element": "Wasser",
     "type": "Aktion: Zauber",
-    "content": "\nBlitzschnell\nErschöpfe 2 Charaktere deiner Wahl.\nFalls dieser Zauber geupgradet wurde, lege eine Schock-Marke auf die erschöpften Charaktere.\n",
-    "mana": "Upgrade: 2 Energie",
+    "content": "\nBlitzschnell\nUpgrade: 2 Energie\nErschöpfe 2 Charaktere deiner Wahl.\nFalls dieser Zauber geupgradet wurde, lege eine Schock-Marke auf die erschöpften Charaktere.\n",
+    "mana": "3 Energie",
     "statline": ""
   },
   {
@@ -235,8 +235,8 @@
     "name": "Mystische Studie",
     "element": "Wasser",
     "type": "Aktion: Zauber",
-    "content": "\nZiehe 2 Karten\nWenn du diese Karte geupgradet hast, führe zuerst Hellsicht 2 aus dann ziehe 2 Karten.\n",
-    "mana": "Upgrade: 1 Energie",
+    "content": "\nUpgrade: 1 Energie\nZiehe 2 Karten\nWenn du diese Karte geupgradet hast, führe zuerst Hellsicht 2 aus dann ziehe 2 Karten.\n",
+    "mana": "2 Energie",
     "statline": ""
   },
   {
@@ -395,8 +395,8 @@
     "name": "Klingenwirbel",
     "element": "Metall",
     "type": "Aktion",
-    "content": "\nVerteile X Schaden an Gegnern wobei X die Anzahl an Ausrüstungen ist die du kontrollierst\nWenn diese Karte geupgradet wurde beschwöre 2 Splitter-Spielsteine.\n",
-    "mana": "Upgrade: 3 Energie",
+    "content": "\nUpgrade: 3 Energie\nVerteile X Schaden an Gegnern wobei X die Anzahl an Ausrüstungen ist die du kontrollierst\nWenn diese Karte geupgradet wurde beschwöre 2 Splitter-Spielsteine.\n",
+    "mana": "4 Energie",
     "statline": ""
   },
   {
@@ -570,17 +570,17 @@
   {
     "name": "Leylinien Wanderer",
     "element": "Holz",
-    "type": "Bezahle 3 Energie: Decke die unterste Karte deines Decks auf und lege sie erschöpft in deinen Energiepool.",
-    "content": "\n",
+    "type": "Charakter: Elementar Kruv",
+    "content": "\nBezahle 3 Energie: Decke die unterste Karte deines Decks auf und lege sie erschöpft in deinen Energiepool.\n",
     "mana": "4 Energie",
     "statline": "3/2"
   },
   {
     "name": "Unsterbliches Wissen",
     "element": "Holz",
-    "type": "X+2",
-    "content": "\nAktion: Zauber\nVorhersage 1\nZiehe X Karten.\n",
-    "mana": "",
+    "type": "Aktion: Zauber",
+    "content": "\nVorhersage 1\nZiehe X Karten.\n",
+    "mana": "X+2 Energie",
     "statline": ""
   },
   {
@@ -595,8 +595,8 @@
     "name": "Transzendiertes Teehaus",
     "element": "Holz",
     "type": "Gebäude",
-    "content": "\n",
-    "mana": "Blüte: Erzeuge 1 Energie",
+    "content": "\nBlüte: Erzeuge 1 Energie\n",
+    "mana": "3 Energie",
     "statline": "0/4"
   },
   {
@@ -611,7 +611,7 @@
     "name": "Leylinie",
     "element": "Holz",
     "type": "Aura",
-    "content": "\nTeam-Arbeit\nWenn du Leyline spielst, lege die untersten 2 Karten deines Decks erschöpft in deinen Energiepool.\nBezahle 3 Energie: Ziehe 1 Karte\n",
+    "content": "\nTeam-Arbeit\nWenn du Leylinie spielst, lege die untersten 2 Karten deines Decks erschöpft in deinen Energiepool.\nBezahle 3 Energie: Ziehe 1 Karte\n",
     "mana": "8 Energie",
     "statline": ""
   },
@@ -698,17 +698,17 @@
   {
     "name": "Mahays Segen",
     "element": "Holz",
-    "type": "X+1",
-    "content": "\nAktion: Zauber\nBlitzschnell\nLege X +1/+1 Marken auf einen Charakter deiner Wahl\n",
-    "mana": "",
+    "type": "Aktion: Zauber",
+    "content": "\nBlitzschnell\nLege X +1/+1 Marken auf einen Charakter deiner Wahl\n",
+    "mana": "X+1 Energie",
     "statline": ""
   },
   {
     "name": "Weckruf des Waldes",
     "element": "Holz",
-    "type": "X+2",
-    "content": "\nAktion: Zauber\nBeschwöre ½ X Verbündeten-Spielsteine\n",
-    "mana": "",
+    "type": "Aktion: Zauber",
+    "content": "\nBeschwöre ½ X Verbündeten-Spielsteine\n",
+    "mana": "X+2 Energie",
     "statline": ""
   },
   {
@@ -851,16 +851,16 @@
     "name": "Kaboom-Arsenal",
     "element": "Feuer",
     "type": "Aktion: Zauber",
-    "content": "\nBlitzschnell\nWähle 1 aus:\n- Füge zwei Charakteren deiner Wahl 1 Schaden zu.\n- Beschwöre einen Funken-Spielstein.\n- Zerstöre ein Artefakt deiner Wahl.\nKopiere diese Karte für jedes Mal das du sie geupgradet hast. Die Energiekosten der Kopien sind 0.\n",
-    "mana": "Multi-Upgrade: 1 Energie",
+    "content": "\nMulti-Upgrade: 1 Energie\nBlitzschnell\nWähle 1 aus:\n- Füge zwei Charakteren deiner Wahl 1 Schaden zu.\n- Beschwöre einen Funken-Spielstein.\n- Zerstöre ein Artefakt deiner Wahl.\nKopiere diese Karte für jedes Mal das du sie geupgradet hast. Die Energiekosten der Kopien sind 0.\n",
+    "mana": "2 Energie",
     "statline": ""
   },
   {
     "name": "Wut des Drachen",
     "element": "Feuer",
     "type": "Aktion: Zauber",
-    "content": "\nMache X Schaden an einem Ziel deiner Wahl.\nKopiere diese Karte für jedes Mal, dass du sie geupgradet hast.\n",
-    "mana": "Multi-Upgrade: 2 Energie",
+    "content": "\nMulti-Upgrade: 2 Energie\nMache X Schaden an einem Ziel deiner Wahl.\nKopiere diese Karte für jedes Mal, dass du sie geupgradet hast.\n",
+    "mana": "X+1 Energie",
     "statline": ""
   },
   {
@@ -915,8 +915,8 @@
     "name": "Rauchbombe",
     "element": "Feuer",
     "type": "Aktion",
-    "content": "\nBlitzschnell\nEine Kreatur deiner Wahl erhält Listig bis zum Ende des Zuges.\nFalls du diese Karte upgradest erhält die Kreatur auch Rasend.\n",
-    "mana": "Upgrade: 1 Energie",
+    "content": "\nBlitzschnell\nUpgrade: 1 Energie\nEine Kreatur deiner Wahl erhält Listig bis zum Ende des Zuges.\nFalls du diese Karte upgradest erhält die Kreatur auch Rasend.\n",
+    "mana": "2 Energie",
     "statline": ""
   },
   {
@@ -947,8 +947,8 @@
     "name": "Ballon Brigade",
     "element": "Feuer",
     "type": "Charakter: Kobold",
-    "content": "\nFalls du diese Karte upgradest erhält die Ballon Brigade Rasend bis zum Ende des Zuges.\nListig\n",
-    "mana": "Upgrade: 1 Energie",
+    "content": "\nUpgrade: 1 Energie\nFalls du diese Karte upgradest erhält die Ballon Brigade Rasend bis zum Ende des Zuges.\nListig\n",
+    "mana": "4 Energie",
     "statline": "3/2"
   },
   {
@@ -1211,8 +1211,8 @@
     "name": "Läutet die Glocken",
     "element": "Erde",
     "type": "Aktion",
-    "content": "\nBlitzschnell\nVerbündete Charakter erhalten Wachsam bis zum Ende des Zuges.\nBeschwöre 1 Wache-Spielstein für jedes Mal das du diesen Zauber geupgradet hast.\n",
-    "mana": "Multi-Upgrade: 2 Energie",
+    "content": "\nBlitzschnell\nMulti-Upgrade: 2 Energie\nVerbündete Charakter erhalten Wachsam bis zum Ende des Zuges.\nBeschwöre 1 Wache-Spielstein für jedes Mal das du diesen Zauber geupgradet hast.\n",
+    "mana": "2 Energie",
     "statline": ""
   },
   {
