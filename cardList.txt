@@ -1,0 +1,1375 @@
+Wache
+Erde
+Charakter-Spielstein: Mensch Krieger
+Wachsam
+2/2
+
+
+Alidh, Held des Dorfes
+Erde
+Charakter-Heldin: Mensch Kriegerin
+Immer wenn Alidh blockt, beschwöre einen Wache-Spielstein.
+Tapfer, Wachsam, Zäh
+2/4
+
+
+Begeisterte Bannerherrin
+Erde 
+5 Energie
+Charakter: Mensch Kriegerin
+Immer wenn Begeisterte Bannerherrin blockt oder angreift, entferne 1 Schadensmarke von jeder Verbündeten Kreatur im Schlachtfeld.
+Tapfer
+4/4
+
+
+Reisender Händler
+Erde
+3 Energie
+Charakter: Mensch
+Erschöpfe mich um die oberste Karte deines Decks ins Exil zu schicken.
+Du kannst Karten die Reisender Händler ins Exil geschickt hat spielen.
+2/2
+
+
+Shnort, Mürrischer Lehrmeister
+Erde
+3 Energie
+Charakter: Mensch Krieger
+Immer wenn du einen Charakter beschwörst oder spielst, lege eine +1/+1 Marke auf den Charakter.
+2/3
+
+
+Wachposten
+Erde
+7 Energie
+Gebäude
+Immer wenn ein gegnerischer Charakter das Dorf angreift, beschwöre einen Wachen-Spielstein.
+0/7
+
+
+Gesegneter Ritter
+Erde
+4 Energie
+Charakter: Krieger Mensch
+Heilig
+2/2
+
+
+Trunkenbolds Gold, Stamm-Taverne
+Erde
+2 Energie
+Gebäude
+Am Ende deines Zuges entferne 2 Schadensmarken von jeder erschöpften Kreatur.
+0/4
+
+
+Morred, Eloquenter Bürgermeister
+Erde 
+3 Energie
+Charakter: Mensch Adeliger
+Deine Charaktere kosten 1 Energie weniger.
+2/3
+
+
+Großzügige Großmutter
+Erde
+2 Energie
+Charakter Mensch
+Erschöpfe mich, entferne 3 Schadensmarken von einem Charakter deiner Wahl.
+1/4
+
+
+Barrikade
+Erde
+3 Energie
+Gebäude: Wand
+0/3
+
+
+Festmahl
+Erde 
+6 Energie
+Aktion
+Team-Arbeit
+Entferne alle Schadensmarken von verbündeten Kreaturen.
+
+
+Wachtrupp Lieutenant
+Erde
+6 Energie
+Charakter: Kobold Krieger
+Wenn du Kapitän der Wache spielst, beschwöre 2 Wachen-Spielsteine.
+Tapfer, Wachsam
+2/2
+
+
+Kauziger Wanderer
+Erde
+2 Energie
+Charakter: Kobold 
+Wenn du Kauziger Wanderer spielst, schicke die oberste Karte deines Decks ins Exil, für den Rest des Spiels kannst du diese Karte spielen
+1/2
+
+
+Läutet die Glocken
+Erde 
+2 Energie
+Aktion
+Blitzschnell
+Multi-Upgrade: 2 Energie
+Verbündete Charakter erhalten Wachsam bis zum Ende des Zuges.
+Beschwöre 1 Wache-Spielstein für jedes Mal das du diesen Zauber geupgradet hast.
+
+
+Loyaler Knappe
+Erde
+2 Energie
+Charakter: Mensch
+Tapfer
+Wenn Loyaler Knappe angreift oder blockt, lege 1 +1/+1 Marke auf eine verbündete Kreatur deiner Wahl im Kampffeld.
+1/2
+
+
+Mutiger Cavalier
+Erde
+5 Energie
+Charakter: Mensch Krieger
+Tollkühn
+Am Ende der Kampfphase, falls Mutiger Cavalier angegriffen hat, lege 2 +1/+1 Marken auf Mutiger Cavalier.
+3/3
+
+
+Göttliche Intervention
+Erde
+2 Energie
+Aktion: Zauber
+Blitzschnell
+Eine Kreatur deiner Wahl erhält Unzerstörbar bis zum Ende des Zuges
+
+
+Gelassener Bauer
+Erde
+1 Energie
+Charakter Mensch
+Erschöpfe mich, erzeuge 1 Energie.
+1/1
+
+
+Vereintes Manöver
+Erde
+3 Energie
+Blitzschnell
+Multi-Upgrade: Erschöpfe eine Verbündete Kreatur 
+Wähle 1 aus:
+-	Verbündete Charaktere erhalten Unzerstörbar bis zum Ende des Zuges.
+-	Ein Charakter deiner Wahl erhält Heilig.
+-	Zerstöre eine Aura deiner Wahl.
+Für jedes Mal das diese Karte geupgradet wurde wähle einen weiteren Modus, du kannst den gleichen Modus nicht zweimal wählen.
+
+
+Ostag, Unwiderstehliche Wirtin
+Erde
+3 Energie
+Charakter: Fae 
+Immer wenn du einen Charakter spielst, ziehe 1 Karte.
+1/3
+
+
+Friedlicher Bauernhof
+Erde
+3 Energie
+Gebäude
+Blüte: heile das Dorf um 2 
+0/4
+
+
+Morsche Kaserne 
+Erde 
+6 Energie
+Gebäude
+Wenn ein verbündeter Charakter angreift oder blockt lege 1 +1/+1 Marke auf den Charakter 
+0/6
+
+
+Lustiger Laden
+Erde
+5 Energie
+Gebäude
+Wenn du Lustiger Laden spielst, schicke die obersten 4 Karten deines Decks ins Exil, du kannst diese Karten spielen
+0/5
+
+
+Standhafte Skulptur
+Erde
+4 Energie
+Charakter: Elementar Golem
+Erschöpfe mich und opfere mich: Konter einen Zauber deiner Wahl der eine Verbündete Permanente als Ziel hat.
+Wachsam
+2/2
+
+
+Sternen Aegis
+Erde
+1 Energie
+Artefakt: Ausrüstung
+Blitzschnell
+Der ausgerüstete Charakter erhält +0/+2.
+
+
+Berührung des Lichts
+Erde
+5 Energie
+Artefakt: Ausrüstung
+Der ausgerüstete Charakter erhält +1/+1 und Heilig.
+
+
+Heroischer Hirtenjunge 
+Erde
+1 Energie
+Charakter: Mensch
+Immer wenn du einen Charakter beschwörst oder spielst lege eine +1/+1 Marke auf Verträumter Bauernjunge.
+Tapfer
+0/2
+
+
+Toii, Kapitänin der Wache
+Erde
+4 Energie
+Charakter: Mensch Kriegerin
+2 Energie: Beschwöre einen Wachen-Spielstein.
+Tapfer, Wachsam
+3/3
+
+
+Champion des Lichts
+Erde
+7 Energie
+Charakter: Mensch Krieger
+Wenn Champion des Lichts angreift oder blockt beschwöre einen Wachen-Spielstein.
+Wachen-Spielsteine die du kontrollierst erhalten Rasend.
+Heilig, Tapfer, Wachsam
+4/5
+
+
+Heldenmut
+Erde
+3 Energie
+Aura
+Der verzauberte Charakter erhält +1/+1 und deine Wahl von Tollkühn oder Tapfer.
+
+
+Inspirierender Priester
+Erde
+4 Energie
+Charakter: Mensch Schamane
+Immer wenn du einen Charakter spielst oder beschwörst, heile das Dorf um 1.
+2/3
+
+
+Funken
+Charakter: Spielstein Elementar
+Nachdem ein Funken angegriffen hat musst du ihn opfern.
+Listig, Rasend, Wild
+1/1
+
+
+Draigg, Vater der Flammen
+Legendärer Charakter-Spielstein: Drache
+Wenn Draigg das erste Mal in einem Zug angreift, erfrische alle verbündeten Charaktere. Nach dieser Kampfphase gibt es eine zweite Kampfphase.
+Brutal, Rasend, Unzerstörbar
+5/3
+
+
+Fynn, Aufstrebender Pyromane 
+Charakter-Held: Kobold Magier 
+Immer wenn eine Quelle unter deiner Kontrolle Schaden an der Festung macht, lege eine Pep-Marke auf Fynn.
+Entferne 2 Pep-Marken von Fynn: Füge der Festung 1 Schaden zu.
+1/3
+
+
+Knallerbse
+Feuer
+1 Energie
+Aktion: Zauber
+Blitzschnell
+Füge einem gegnerischen Charakter oder der Festung 2 Schaden zu.
+
+
+Fünkchen Fuchs
+Feuer
+3 Energie
+Charakter: Elementar-Fuchs
+Wenn du den Fünkchen Fuchs spielst, beschwöre einen Funken-Spielstein.
+Listig, Rasend
+2/1
+
+
+Funkensprüher
+Feuer
+2 Energie
+Artefakt: Ausrüstung
+Immer wenn der ausgerüstete Charakter angreift, fügt Funkensprüher 1 Schaden an der Festung zu.
+
+
+Manisches Tüfteln
+Feuer
+3 Energie
+Aktion
+Eine deiner Mitspielerinnen deckt die obersten 4 Karten deines Decks auf, dann wählst du zwei davon zufällig aus und nimmst sie auf deine Hand und mischt die anderen beiden Karten unter dein Deck.
+
+
+Feuerwerks Kanone
+Feuer
+4 Energie
+Gebäude
+Erschöpfe mich und einen verbündeten Charakter um der Festung 3 Schaden zu zufügen.
+0/4
+
+
+Feuerregen 
+Feuer	
+X+2 Energie
+Aktion: Zauber
+Füge X Gegnern 1 Schaden zu und beschwöre X Funken-Spielsteine.
+
+
+Schwarzpulver Schmiede
+Feuer
+5 Energie
+Gebäude
+Immer wenn eine Quelle unter deiner Kontrolle Schaden an der Festung zufügt kannst du 1 Karte ziehen, falls du dies tust musst du danach 1 Karte abwerfen.
+0/7
+
+
+Flammen Fanatiker
+Feuer
+2 Energie
+Charakter: Kobold
+Wenn Flammen Fanatiker angreift, fügt sie der Festung 1 Schaden zu.
+Rasend
+2/1 
+
+
+Rasanter Rabauke
+Feuer
+3 Energie
+Charakter: Kobold
+Brutal, Rasend
+3/1
+
+
+Explosiver Angriff
+Feuer
+1 Energie
+Aktion: Zauber
+Blitzschnell
+Ein angreifender Charakter deiner Wahl erhält +2+0 und Geschickt bis zum Ende des Zuges.
+
+
+Sternenschauer, Flamme der Hoffnung
+Feuer
+6 Energie
+Charakter: Elementar-Phoenix
+Team-Arbeit
+Bezahle 2 Energie: Sternenschauer fügt der Festung 1 Schaden zu.
+Wenn in einem Zug mindestens 3 unterschiedliche Quellen der Festung Schaden zugefügt haben kannst du Sternenschauer in deiner Endphase aus dem Friedhof spielen in dem du 3 Energie zahlst.
+Listig
+3/4
+
+
+Chaos Ingenieur
+Feuer
+3 Energie
+Charakter: Kobold
+Wenn Chaos Ingenieur angreift kannst du 1 Karte ziehen, falls du dies tust musst du danach 1 Karte abwerfen.
+Geschickt
+3/1 
+
+
+Ballon Brigade
+Feuer
+4 Energie
+Charakter: Kobold
+Upgrade: 1 Energie 
+Falls du diese Karte upgradest erhält die Ballon Brigade Rasend bis zum Ende des Zuges.
+Listig 
+3/2
+
+
+Spuk der Spiele
+Feuer
+3 Energie
+Charakter: Elementar
+Wenn Spuk der Spiele und mindestens 1 anderer verbündeter Charakter angreifen fügt Spuk der Spiele einem Ziel deiner Wahl 2 Schaden zu.
+Geschickt
+2/2
+
+
+Aufruf zum Abfeiern
+Feuer
+3 Energie 
+Aktion
+Decke die obersten 5 Karten deines Decks auf und nehme 1 Charakter-Karte die so aufgedeckt wurden auf die Hand, lege den Rest in deinen Friedhof
+
+
+Blitz-Böller
+Feuer
+2 Energie
+Aktion: Zauber
+Blitzschnell
+Füge einem Charakter deiner Wahl 1 Schaden zu, dieser Charakter kann diesen Zug nicht angreifen
+
+
+Rauchbombe
+Feuer
+2 Energie
+Aktion
+Blitzschnell
+Upgrade: 1 Energie
+Eine Kreatur deiner Wahl erhält Listig bis zum Ende des Zuges.
+Falls du diese Karte upgradest erhält die Kreatur auch Rasend.
+
+
+Wunderkerzen
+Feuer
+1 Energie
+Aktion: Zauber
+Blitzschnell
+Beschwöre 1 Funken-Spielstein.
+
+
+Flammenspuckerin
+Feuer
+4 Energie
+Charakter: Kobold
+Wenn Flammenspuckerin geblockt wird fügt sie dem blockenden Charakter 3 Schaden zu.
+Brutal
+1/3
+
+
+Fackelträger Ferkel
+Feuer
+5 Energie
+Charakter: Elementar Ferkel
+Wenn Fackelträger Ferkel angreift beschwöre 1 Funken-Spielstein.
+Brutal, Rasend
+4/3
+
+
+Marsch der Tausend Lichter
+Feuer
+7 Energie
+Aktion: Zauber
+Blitzschnell
+Team-Arbeit
+Jeder Angreifende Charakter fügt der Festung 1 Schaden zu
+
+
+Die Böller Buben
+Feuer
+3 Energie
+Kreatur: Kobold Barden
+Wenn Die Böller Buben angreifen erhalten andere angreifende Charaktere +1+0.
+Geschickt
+2/2
+
+
+Funkentänzer
+Feuer
+2 Energie
+Kreatur-Elementar
+Erschöpfe mich: Füge einem Ziel deiner Wahl 1 Schaden zu.
+Erfrische mich immer, wenn du eine Aktions-Karte spielst.
+1/1
+
+
+Wut des Drachen
+Feuer
+X+1 Energie 
+Aktion: Zauber
+Multi-Upgrade: 2 Energie
+Mache X Schaden an einem Ziel deiner Wahl.
+Kopiere diese Karte für jedes Mal, dass du sie geupgradet hast.
+
+
+Kaboom-Arsenal
+Feuer
+2 Energie
+Aktion: Zauber
+Multi-Upgrade: 1 Energie
+Blitzschnell
+Wähle 1 aus:
+-	Füge zwei Charakteren deiner Wahl 1 Schaden zu.
+-	Beschwöre einen Funken-Spielstein.
+-	Zerstöre ein Artefakt deiner Wahl.
+Kopiere diese Karte für jedes Mal das du sie geupgradet hast. Die Energiekosten der Kopien sind 0.
+
+
+Brutale Barrage
+Feuer
+4 Energie
+Aktion: Zauber
+Blitzschnell
+Füge allen Charakteren im Kampffeld 2 Schaden zu.
+
+
+Dan, der Draufgänger 
+Feuer
+1 Energie
+Charakter: Kobold
+Brutal, Rasend, Wild
+2/2
+
+
+Prunkhafter Paradewagen 
+Feuer 
+6 Energie
+Gebäude
+Team-Arbeit
+Verbündete Kreaturen erhalten Rasend.
+0/6
+
+
+Explosives Experiment
+Feuer
+6 Energie
+Aktion
+Team-Arbeit
+Ziehe 5 Karten, dann wähle zufällig 2 Karten aus deiner Hand aus und Mische sie in dein Deck.
+
+
+Rauschende Stimmung
+Feuer
+1 Energie
+Aura
+Verzaubere eine Kreatur deiner Wahl.
+Die verzauberte Kreatur erhält Rasend und Wild.
+
+
+Yachi, Tempel der Mahay
+Holz 
+Legendäres Gebäude
+Immer wenn du Energie erzeugen würdest erzeuge doppelt so viel Energie.
+Zäh
+0/8
+
+
+Verbündeter
+Holz
+Charakter-Spielstein: Elementar Bestie
+2/2
+
+
+Darak, Suchender Sprössling
+Holz
+Charakter-Held: Elementar Kruv Schamane
+Erschöpfe mich und lege eine Schockmarke auf mich: Decke die unterste Karte deines Decks auf und lege sie in deinen Energiepool.
+2/3
+
+
+Knorriger Mentor
+Holz 
+3 Energie
+Charakter: Elementar Kruv Krieger
+Blüte: Lege eine +1/+1 Marke auf einen Charakter deiner Wahl.
+2/3
+
+
+Wandel der Zeit
+Holz
+1 Energie
+Aktion
+Lege eine Karte aus deinem Energiepool auf den Friedhof, lege die unterste Karte deines Decks in deinen Energiepool.
+
+
+Herz des Waldes
+Holz
+4 Energie
+Gebäude
+Blüte: Ziehe 1 Karte
+0/6
+
+
+Mahay’s Herald
+Holz
+4 Energie
+Charakter: Elementar
+Wenn du Mahays Herald spielst, lege die unterste Karte deines Decks erschöpft in deinen Energiepool.
+3/3
+
+
+Wachstum des Waldes
+Holz
+2 Energie
+Aktion
+Lege die unterste Karte deines Decks in deinen Energiepool.
+
+
+Grünfinger, der Gewaltige
+Holz
+4 Energie
+Charakter: Elementar Kruv
+Wenn du Grünfinger spielst darf jede deiner Mitspielerin einen Charakter erschöpfen den sie kontrolliert.
+Falls so ein Feuer Charakter erschöpft wurde erhält Grünfinger Brutal.
+Falls so ein Wasser Charakter erschöpft ziehe 2 Karten.
+Falls so ein Erde Charakter erschöpft wurde erhält Grünfinger Tapfer.
+Falls so ein Metall Charakter erschöpft wurde erhält Grünfinger Zäh.
+4/4
+
+
+Massives Mammut
+Holz
+X+2 Energie
+Charakter: Elementar Bestie
+Wenn du Massives Mammut spielst lege X +1/+1 Marken auf Massives Mammut.
+Brutal, Zäh 
+1/1
+
+
+Dachsbau
+Holz
+3 Energie
+Gebäude
+Blüte: Beschwöre einen Verbündeten-Spielstein.
+0/4
+
+
+Ring der Ahnen
+Holz
+6 Energie
+Gebäude
+Alle Karten deiner Verbündeten erhalten Teamarbeit
+0/6
+
+
+Weckruf des Waldes
+Holz
+X+2
+Aktion: Zauber
+Beschwöre ½ X Verbündeten-Spielsteine
+
+
+Mahays Segen
+Holz
+X+1
+Aktion: Zauber
+Blitzschnell
+Lege X +1/+1 Marken auf einen Charakter deiner Wahl
+
+
+Frucht der Stärke
+Holz
+2 Energie
+Aktion: Zauber
+Blitzschnell
+Lege 2 +1/+1 Marken auf einen Charakter der Wahl
+
+
+Priesterin der Mahay
+Holz
+4 Energie
+Charakter Kruv Schamane
+In deiner Erholungsphase kannst du eine zusätzliche Karte aus deiner Hand in deinen Energiepool legen
+1/3
+
+
+Avatar des Landes
+Holz
+4 Energie
+Charakter-Elementar
+Die Stärke und Ausdauer von Avatar des Landes entspricht der Anzahl an Karten in deinem Energiepool
+X/X
+
+
+Dorniges Dickicht
+Holz
+7 Energie
+Gebäude-Wand
+Zäh
+Immer wenn ein gegnerischer Charakter Dorniges Dickicht Schaden zufügt, fügt Dorniges Dickicht ihm 3 Schaden zu
+0/7
+
+
+Grotten Pflegerin
+Holz
+2 Energie
+Charakter Elementar Kruv Schamane
+Blüte: entferne zwei Schadensmarken von einem Charakter deiner Wahl
+2/2
+
+
+Erbin der Ältesten
+Holz
+5 Energie
+Charakter Elemental Kruv Schamanin
+Blüte: führe Hellsicht 2 durch
+Zäh
+3/4
+
+
+Terror des Moors
+Holz
+7 Energie
+Charakter: Elementar Drache
+Brutal, Wild, Zäh
+6/5
+
+
+Rituale der Ahnen
+Holz
+X+1 Energie 
+Aktion: Zauber
+Blitzschnell
+Wähle 1 aus:
+-	Verteile X +1/+1 Marken auf verbündeten Charakteren.
+-	Beschwöre 1/3 X (aufgerundet) Verbündeten Spielsteine.
+-	Decke die obersten X Karten deines Decks auf, nehme 2 der aufgedeckten Karten auf die Hand und mische den Rest in dein Deck zurück.
+
+
+Kräuterheilerin
+Holz
+2 Energie
+Charakter: Elementar Kruv Schamanin
+Blüte: entferne 1 Schadensmarke von einem Charakter deiner Wahl, dann wenn du 8 oder mehr Karten in deinem Energiepool hast, ziehe 1 Karte.
+1/3
+
+
+Uralter Gärtner
+Holz
+7 Energie
+Charakter: Elementar Kruv
+Immer wenn du einen Blüte Effekt einer deiner Permanenten aktivierst, aktiviere ihn ein weiteres Mal.
+Zäh
+3/6
+
+
+Leylinie 
+Holz
+8 Energie
+Aura
+Team-Arbeit
+Wenn du Leyline spielst, lege die untersten 2 Karten deines Decks erschöpft in deinen Energiepool.
+Bezahle 3 Energie: Ziehe 1 Karte
+
+
+Erwachender Titan
+Holz
+5 Energie
+Charakter: Elementar Kruv
+Wenn du Erwachender Titan spielst erschöpfe ihn, dann lege 4 Schock-Marken auf Erwachender Titan.
+Blüte: Entferne 1 Schock-Marke von Erwachender Titan.
+Brutal
+8/8
+
+
+Transzendiertes Teehaus
+Holz 
+3 Energie
+Gebäude
+Blüte: Erzeuge 1 Energie
+0/4
+
+
+Gefräßiger Alligator
+Holz
+6 Energie
+Charakter: Biest Elementar
+Blüte: Gefräßiger Alligator und ein gegnerischer Charakter deiner Wahl schlagen sich gegenseitig. Dann, falls der gegnerische Charakter gestorben ist erhält Gefräßiger Alligator Zäh bis zum Ende des Zuges.
+4/6
+
+
+Unsterbliches Wissen
+Holz
+X+2
+Aktion: Zauber
+Vorhersage 1
+Ziehe X Karten.
+
+
+Leylinien Wanderer
+Holz
+4 Energie
+Bezahle 3 Energie: Decke die unterste Karte deines Decks auf und lege sie erschöpft in deinen Energiepool.
+3/2
+
+
+Grünen Gassen
+Holz
+5 Energie
+Aura
+Charakter-Karten in deiner Hand erhalten Blitzschnell.
+
+
+Marsch des Waldes
+Holz
+8 Energie
+Aura
+In deiner Erholungsphase beschwöre einen Verbündeten-Spielstein.
+Alle Elementare die du kontrollierst erhalten +3/+3.
+
+
+Pollen Fee
+Holz
+1 Energie
+Charakter: Fae Elementar
+Erschöpfe mich: Aktiviere die Blütenfähigkeit einer verbündeten Permanenten
+1/1
+
+
+Herald der Blüte
+Holz
+9 Energie
+Charakter: Drache Elementar
+Teamarbeit
+Wenn Herald der Blüte angreift, aktiviere alle Blüte-Fähigkeiten von Verbündeten Permanenten.
+Brutal, Zäh
+8/8
+
+
+Ritus des Frühlings
+Holz
+2 Energie
+Aktion: Zauber
+Blitzschnell
+Aktiviere die Blüte Fähigkeit einer verbündeten Permanenten.
+Ziehe 1 Karte.
+
+
+Trochghet, Die Erlösung Neugeboren 
+Metall
+0 Energie
+Legendäres Artefakt: Ausrüstung
+Wenn der ausgerüstete Charakter einen Charakter tötet, schicke ihn ins Exil, dann schlägt der ausgerüstete Charakter die Festung.
+
+
+Splitter
+Metall
+Artefakt-Spielstein: Ausrüstung
+Der ausgerüstete Charakter erhält +1+0.
+
+
+Lu, Gewählte des Krieges
+Metall
+Charakter-Heldin: Geist Kriegerin
+Immer wenn Lu einen Charakter tötet, lege eine +1/+1 Marke auf Lu.
+Geschickt, Tollkühn, Waffenmeister
+2/2
+
+
+Stahl-Wind-Streich
+Metall
+3 Energie
+Aktion
+Blitzschnell
+Ein Held deiner Wahl schlägt einen Charakter deiner Wahl.
+
+
+Melodie der Verlorenen
+Metall
+2 Energie
+Artefakt: Ausrüstung
+Der Ausgerüstete Charakter erhält +1/+1.
+Immer wenn der ausgerüstete Charakter einen Charakter tötet, Ziehe 1 Karte.
+
+
+Glamschett, Seelen Dieb 
+Metall
+2 Energie
+Legendäres Artefakt: Ausrüstung
+Immer wenn der ausgerüstete Charakter einen Charakter tötet schicke ihn ins Exil.
+Der ausgerüstete Charakter erhält alle Fähigkeiten-Wörter der Charaktere die mit Glamschett ins Exil geschickt wurden.
+
+
+Trainingspuppe
+Metall
+2 Energie
+Charakter: Maschine
+Immer wenn du einen Charakter ausrüstest, ziehe 1 Karte.
+0/3
+
+
+Ungebändigter Wille
+Metall
+1 Energie
+Aktion
+Blitzschnell
+Das nächste Mal, wenn ein Charakter deiner Wahl sterben würde bringe ihn stattdessen erschöpft aufs Spielfeld zurück.
+
+
+Lanze der Wächter
+Metall
+3 Energie
+Artefakt: Ausrüstung
+Der Ausgerüstete Charakter Erhält +1/+2, Tapfer und Wachsam.
+
+
+Dwerach, Welches im Blut badet
+Metall
+6 Energie
+Artefakt: Ausrüstung
+Um diese Karte zu spielen musst du eine andere Karte abwerfen.
+Der ausgerüstete Charakter erhält +3/+0 Brutal und Wild.
+
+
+Schmied der Schwarzen Magie
+Metall
+4 Energie
+Charakter Mensch Handwerker
+Wenn du Schmied der Schwarzen Schmiede spielst decke die oberste Karte deines Decks auf bis du eine Ausrüstungskarte aufdeckst, dann nehme sie auf deine Hand und mische den Rest der Karten in dein Deck zurück
+2/4
+
+
+Riuchgul, Stählerne Friedhof
+Metall
+5 Energie
+Gebäude
+Immer wenn ein verbündeter Charakter mit Waffenmeister angreift, kannst du zwei Splitter-Spielstein beschwören und den angreifenden Charakter damit ausrüsten.
+0/6
+
+
+Versteckte Waffe
+Metall
+2 Energie
+Aktion
+Blitzschnell
+Wähle eine Ausrüstung aus deiner Hand aus und rüste ein Held deiner Wahl damit aus.
+
+
+Geist der Ruine
+Metall
+1 Energie
+Charakter: Geist
+Wenn du Geist der Ruine spielst beschwöre einen Splitter-Spielstein.
+0/2
+
+
+Parasitäre Rüstung
+Metall 
+2 Energie
+Artefakt: Ausrüstung
+Blitzschnell
+Upgrade: Werfe 1 Karte ab
+Der Ausgerüstete Charakter erhält +1/+2
+Wenn du diese Karte geupgradet hast erhält der ausgerüstete Charakter zusätzlich Unzerstörbar bis zum Ende des Zuges.
+
+
+Ruf des Blutes
+Metall
+6 Energie
+Aura
+Das erste Mal in einem Zug, wenn ein Held alleine angreift, erfrische ihn. Nach dieser Kampfphase gibt es eine zweite Kampfphase.
+
+
+Klingenwirbel
+Metall
+4 Energie
+Aktion
+Upgrade: 3 Energie
+Verteile X Schaden an Gegnern wobei X die Anzahl an Ausrüstungen ist die du kontrollierst
+Wenn diese Karte geupgradet wurde beschwöre 2 Splitter-Spielsteine.
+
+
+Klauen der Wyld
+Metall
+5 Energie
+Artefakt: Ausrüstung
+Erschöpfe mich: Lege 3 +1/+1 Marken auf den ausgerüsteten Charakter.
+
+
+Mondscheinsichel
+Metall
+4 Energie
+Artefakt: Ausrüstung
+Wenn du Mondscheinsichel spielst, ziehe 1 Karte.
+Wenn der ausgerüstete Charakter angreift, fügt er einem Charakter deiner Wahl 2 Schaden zu.
+
+
+Splittersturm
+Metall
+5 Energie
+Aura
+Immer wenn ein Charakter ausgerüstet wird schlägt er einen Charakter deiner Wahl.
+
+
+Waffenmeisters Finesse
+Metall
+3 Energie
+Aktion
+Blitzschnell
+Upgrade: Werfe 1 Karte ab.
+Wähle 1 aus:
+-	Beschwöre 2 Splitter-Spielsteine.
+-	Schicke Zwei Karten deiner Wahl aus einem Friedhof ins Exil.
+-	Ein verbündeter Charakter deiner Wahl und ein gegnerischer Charakter deiner Wahl schlagen sich gegenseitig.
+Wenn du diese Karte geupgradet hast, kostet sie 2 Energie weniger zu spielen.
+
+
+Ruheloser Geist
+Metall
+4 Energie
+Charakter: Geist Krieger
+Wenn dieser Charakter stirbt, beschwöre 2 Splitterspielsteine.
+Tollkühn
+3/2
+
+
+Ketten der Carceri
+Metall
+2 Energie
+Artefakt Ausrüstung
+Werfe eine Karte ab, der ausgerüstete Charakter fügt einem Ziel deiner Wahl 2 Schaden zu.
+
+
+Dunkler Pakt
+Metall
+3 Energie
+Aura
+Erschöpfe mich Füge dem Dorf 1 Schaden zu, dann ziehe 1 Karte.
+
+
+Dämon der Vergessenen Sünden
+Metall
+7 Energie
+Charakter Dämon
+Multi-Upgrade: Füge dem Dorf 1 Schaden zu
+Wenn der Dämon der Vergessenen Sünden angreift kannst du eine Ausrüstung opfern um einem anderen Charakter deiner Wahl Brutal bis zum Ende des Zuges zu geben.
+Wenn du diese Karte spielst beschwöre einen Splitter-Spielstein für jedes Mal das du sie geupgradet hast.
+Brutal, Tollkühn, Waffenmeister
+5/5
+
+
+Blutbad-Symphonie
+Metall
+7 Energie
+Aktion
+Blitzschnell
+Ein Charakter deiner Wahl im Kampffeld schlägt jeden anderen Charakter im Kampffeld.
+
+
+Test der Ahnen
+Metall
+5 Energie
+Aktion
+Ziehe X Karten wobei X die Stärke deines Helden ist.
+
+
+Verirrte Seele 
+Metall
+4 Energie
+Charakter Geist Krieger
+Immer wenn du ein Artefakt spielst, beschwöre 1 Splitter-Spielstein.
+Waffenmeister
+3/3
+
+
+Annie & Bonnie
+Metall
+1 Energie
+Artefakt Ausrüstung
+Ausgerüsteter Charakter erhält +1+0
+Wenn du Annie und Bonnie spielst, beschwöre einen Splitterspielstein.
+
+
+Treue Schild-Maid 
+Metall 
+3 Energie
+Charakter Mensch Kriegerin
+Ausrüstungen die du spielst kosten 1 Energie weniger.
+Tapfer
+2/2
+
+
+Egelsklinge
+Metall 
+5 Energie
+Multi Upgrade: Füge dem Dorf 2 Schaden zu
+Der ausgerüstete Charakter erhält +2/+2.
+Wenn der ausgerüstete Charakter angreift Heile das Dorf 1 für jedes Mal das du diese Karte geupgradet hast.
+
+
+Windschnitt, Klinge der See
+Metall
+3 Energie
+Artefakt Ausrüstung
+Der ausgerüstete Charakter erhält +2/+0 und Geschickt.
+
+
+Helm der Mohan
+Metall
+2 Energie
+Artefakt Ausrüstung
+Der ausgerüstete Charakter erhält +0/+2 und Tollkühn.
+
+
+Schwelle zur Anderen Welt
+Wasser
+0 Energie
+Aktion: Zauber
+Jede Spielerin darf X Karten aus ihrer Hand in ihr Deck mischen, dann zieht jede Spielerin X+1 Karten.
+Schicke Schwelle zur Anderen Welt ins Exil.
+
+
+Vasall
+Charakter-Spielstein: Fae
+1/1
+
+
+Leigh, Naive Hexe
+Wasser 
+Charakter- Heldin Mensch Magierin
+Erschöpfe mich: Decke die obersten 2 Karten deines Decks auf. Nehme einen Zauber oder eine Aura die so aufgedeckt wurde auf die Hand und lege den Rest in deinen Friedhof.
+1/4
+
+
+Mystische Studie
+Wasser
+2 Energie
+Aktion: Zauber
+Upgrade: 1 Energie
+Ziehe 2 Karten
+Wenn du diese Karte geupgradet hast, führe zuerst Hellsicht 2 aus dann ziehe 2 Karten.
+
+
+Fae Beschwörung
+Wasser 
+2 Energie
+Aktion-Zauber
+Beschwöre 2 Vasallen-Spielsteine.
+
+
+Winde des Winters
+Wasser
+3 Energie
+Aktion: Zauber
+Blitzschnell
+Upgrade: 2 Energie
+Erschöpfe 2 Charaktere deiner Wahl.
+Falls dieser Zauber geupgradet wurde, lege eine Schock-Marke auf die erschöpften Charaktere.
+
+
+Fessel Falle
+Wasser
+3 Energie
+Aktion: Zauber
+Blitzschnell
+Lege zwei Schock-Marken auf einen Charakter deiner Wahl.
+
+
+Heroischer Hausgeist
+Wasser 
+2 Energie
+Charakter: Fae Hund
+Wenn der heroische Hausgeist Schaden an der Festung macht, ziehe 1 Karte.
+Listig
+1/2 
+
+
+Weisheit der Ältesten
+Wasser 
+4 Energie
+Aktion: Zauber
+Durchsuche dein Deck nach einem Zauber oder einer Aura und nehme sie auf die Hand.
+
+
+Turm des Zauberers
+Wasser 
+5 Energie
+Gebäude
+Immer wenn du einen Zauber oder eine Aura spielst, nehme einen Zauber oder eine Aura aus dem Friedhof auf die Hand zurück.
+0/4
+
+
+Kristallkugel
+Wasser
+3 Energie
+Artefakt
+Führe Hellsicht 1 in deiner Erholungsphase aus.
+
+
+Drittes Auge
+Wasser 
+3 Energie
+Aura
+Verzaubere einen Charakter.
+Wenn der verzauberte Charakter Kampfschaden an der Festung macht, ziehen du und eine deiner Mitspielerinnen 1 Karte.
+
+
+Runen des Schutzes
+Wasser
+1 Energie
+Aura
+Verzaubere einen Charakter oder ein Gebäude.
+Falls Rune des Schutzes einen Charakter verzaubert erhält dieser +0/+2.
+Falls Rune des Schutzes ein Gebäude verzaubert erhält dieses +0/+4.
+
+
+Zauberlehrling
+Wasser
+3 Energie
+Charakter: Mensch Magierin
+Wenn du den Zauberlehrling spielst, nehme einen Zauber oder eine Aura deiner Wahl aus deinem Friedhof auf deine Hand zurück.
+1/2
+
+
+Buch der Zauber
+Wasser
+3 Energie
+Artefakt
+Zauber und Auren die du spielst kosten 1 Energie weniger.
+
+
+Gemeinsame Traumreise
+Wasser
+6 Energie
+Aktion: Zauber
+Team Arbeit
+Als zusätzliche Kosten für diesen Zauber erschöpfe einen Charakter.
+Ziehe 5 Karten, dann mische 2 Karten deiner Wahl aus deiner Hand in dein Deck zurück.
+Jede Mitspielerin die geholfen hat diesen Zauber zu spielen kopiert ihn. Die Energiekosten der Kopien sind 0.
+
+
+Zauberstab des Magus
+Wasser
+3 Energie
+Artefakt: Ausrüstung
+Immer wenn du einen Zauber oder eine Aura spielst erhält der ausgerüstete Charakter +1+1 bis zum Ende dieses Zuges.
+
+
+Rune der Nebelkinder 
+Wasser
+4 Energie
+Aura
+Verzaubere einen Charakter.
+Der verzauberte Charakter erhält Listig.
+
+
+Entschärfen
+Wasser
+2 Energie
+Aktion: Zauber
+Blitzschnell
+Wähle 1 aus
+-	Das Spielen 1 Fallen-Karte deiner Wahl misslingt.
+-	Zerstöre eine Aura deiner Wahl.
+
+
+Seifenblasen Hasen
+Wasser
+2 Energie
+Aktion-Zauber
+Blitzschnell
+1 Charakter deiner Wahl erhält -2/-0 und ein weiterer deiner Wahl erhält +0/+2.
+
+
+Aife, Meisterin des Mystischen
+Wasser
+4 Energie
+Charakter: Fae Magier
+Immer wenn du einen Zauber oder eine Aura spielst beschwöre einen Vasallen-Spielstein.
+Bezahle 3 Energie und erschöpfe mich: Deine Vasallen-Spielsteine erhalten Listig und Tapfer bis zum Ende des Zuges.
+2/4
+
+
+Antiker Bibliothekar
+Wasser
+5 Energie
+Charakter: Fae Automat
+Immer wenn Antiker Bibliothekar angreift, schicke einen Zauber aus deinem Friedhof ins Exil, dann kopiere einen Zauber der von Antiker Bibliothekar ins Exil geschickt wurde. Die Kosten der Kopie sind 0.
+Listig
+2/4
+
+
+Zaubertrick
+Wasser
+1 Energie
+Aktion: Zauber
+Blitzschnell
+Upgrade: 2 Energie
+Vorhersage 3
+Wähle 1:
+-	Erschöpfe einen Charakter deiner Wahl, dann lege eine Schock-Marke auf diese Kreatur.
+-	Eine Kreatur deiner Wahl erhält Listig bis zum Ende des Zuges.
+-	Ziehe 2 Karten, dann werfe eine Karte ab.
+Wenn dieser Zauber geupgradet wurde, verliert er Vorhersage 3.
+
+
+Arkaner Hinterhalt
+Wasser
+1 Energie
+Aktion Zauber
+Blitzschnell
+Vorhersage 2
+Das spielen einer Karte deiner Wahl misslingt.
+
+
+Kopie Katze
+Wasser	
+4 Energie 
+Charakter: Fae Katze
+Wenn du Kopie Katze spielst verwandele sie in eine Kopie eines verbündeten Charakters der kein Held ist, aber ihr Name ist Kopie Katze und sie bleibt eine 2/2.
+2 Energie und Erschöpfe mich: Eine Spielerin deiner Wahl erhält die Kontrolle über mich.
+2/2
+
+
+Ard, Magischer Spiegel
+Wasser
+6 Energie
+Artefakt
+In deiner Erfrischungsphase ziehen alle Spielerinnen 1 Karte.
+
+
+Visionen der Anderen Welt
+Wasser
+5 Energie
+Aura
+Immer wenn du einen Zauber oder eine Aura spielst, ziehe 1 Karte.
+
+
+Blendender Nebel
+Wasser
+3 Energie
+Aura
+Blitzschnell
+Verzaubere einen gegnerischen Charakter deiner Wahl.
+Der verzauberte Charakter erhält -3/-3.
+
+
+Ewiger Schlaf
+Wasser
+6 Energie
+Aura
+Blitzschnell
+Verzaubere einen gegnerischen Charakter deiner Wahl.
+Erschöpfe den verzauberten Charakter.
+Am Ende des Zuges der Spielmeisterin lege eine Schock-Marke auf die verzauberte Kreatur.
+
+
+Mana-Quelle
+Wasser
+5 Energie
+Aura
+Immer wenn du einen Zauber oder eine Aura spielst, erfrische 2 Karten in deinem Energiepool.
+
+
+Santiago, Segelnder Künstler
+Wasser
+6 Energie
+Charakter: Mensch Magier
+Immer wenn du eine Aura oder einen Zauber spielst, kopiere die Karte. Die Energiekosten der Kopie sind 0.
+3/4
+
+
+Nebelschiff
+Wasser
+7 Energie
+Aura
+Team-Arbeit
+Immer wenn ein verbündeter Charakter der Festung Kampfschaden zufügt, ziehen du und die Kontrolleurin des Charakters 1 Karte.
+
+
+Spiegeltrick
+Wasser
+Aktion Zauber
+2 Energie
+Blitzschnell
+Kopiere eine Aktions-Karte deiner Wahl der von dir oder einer deiner Mitspielerinnen gespielt wurde. Die Kosten der Kopie sind 0.

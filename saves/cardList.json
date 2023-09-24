@@ -1,0 +1,1330 @@
+[
+  {
+    "name": "Spiegeltrick",
+    "element": "Wasser",
+    "type": "Aktion Zauber",
+    "content": "\nBlitzschnell\nKopiere eine Aktions-Karte deiner Wahl der von dir oder einer deiner Mitspielerinnen gespielt wurde. Die Kosten der Kopie sind 0.",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Nebelschiff",
+    "element": "Wasser",
+    "type": "Aura",
+    "content": "\nTeam-Arbeit\nImmer wenn ein verbündeter Charakter der Festung Kampfschaden zufügt, ziehen du und die Kontrolleurin des Charakters 1 Karte.\n",
+    "mana": "7 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Santiago, Segelnder Künstler",
+    "element": "Wasser",
+    "type": "Charakter: Mensch Magier",
+    "content": "\nImmer wenn du eine Aura oder einen Zauber spielst, kopiere die Karte. Die Energiekosten der Kopie sind 0.\n",
+    "mana": "6 Energie",
+    "statline": "3/4"
+  },
+  {
+    "name": "Mana-Quelle",
+    "element": "Wasser",
+    "type": "Aura",
+    "content": "\nImmer wenn du einen Zauber oder eine Aura spielst, erfrische 2 Karten in deinem Energiepool.\n",
+    "mana": "5 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Ewiger Schlaf",
+    "element": "Wasser",
+    "type": "Aura",
+    "content": "\nBlitzschnell\nVerzaubere einen gegnerischen Charakter deiner Wahl.\nErschöpfe den verzauberten Charakter.\nAm Ende des Zuges der Spielmeisterin lege eine Schock-Marke auf die verzauberte Kreatur.\n",
+    "mana": "6 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Blendender Nebel",
+    "element": "Wasser",
+    "type": "Aura",
+    "content": "\nBlitzschnell\nVerzaubere einen gegnerischen Charakter deiner Wahl.\nDer verzauberte Charakter erhält -3/-3.\n",
+    "mana": "3 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Visionen der Anderen Welt",
+    "element": "Wasser",
+    "type": "Aura",
+    "content": "\nImmer wenn du einen Zauber oder eine Aura spielst, ziehe 1 Karte.\n",
+    "mana": "5 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Ard, Magischer Spiegel",
+    "element": "Wasser",
+    "type": "Artefakt",
+    "content": "\nIn deiner Erfrischungsphase ziehen alle Spielerinnen 1 Karte.\n",
+    "mana": "6 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Kopie Katze",
+    "element": "",
+    "type": "Wasser\t",
+    "content": "\n4 Energie \nCharakter: Fae Katze\nWenn du Kopie Katze spielst verwandele sie in eine Kopie eines verbündeten Charakters der kein Held ist, aber ihr Name ist Kopie Katze und sie bleibt eine 2/2.\n2 Energie und Erschöpfe mich: Eine Spielerin deiner Wahl erhält die Kontrolle über mich.\n",
+    "mana": "",
+    "statline": "2/2"
+  },
+  {
+    "name": "Arkaner Hinterhalt",
+    "element": "Wasser",
+    "type": "Aktion Zauber",
+    "content": "\nBlitzschnell\nVorhersage 2\nDas spielen einer Karte deiner Wahl misslingt.\n",
+    "mana": "1 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Zaubertrick",
+    "element": "Wasser",
+    "type": "Aktion: Zauber",
+    "content": "\nBlitzschnell\nVorhersage 3\nWähle 1:\n-\tErschöpfe einen Charakter deiner Wahl, dann lege eine Schock-Marke auf diese Kreatur.\n-\tEine Kreatur deiner Wahl erhält Listig bis zum Ende des Zuges.\n-\tZiehe 2 Karten, dann werfe eine Karte ab.\nWenn dieser Zauber geupgradet wurde, verliert er Vorhersage 3.\n",
+    "mana": "Upgrade: 2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Antiker Bibliothekar",
+    "element": "Wasser",
+    "type": "Charakter: Fae Automat",
+    "content": "\nImmer wenn Antiker Bibliothekar angreift, schicke einen Zauber aus deinem Friedhof ins Exil, dann kopiere einen Zauber der von Antiker Bibliothekar ins Exil geschickt wurde. Die Kosten der Kopie sind 0.\nListig\n",
+    "mana": "5 Energie",
+    "statline": "2/4"
+  },
+  {
+    "name": "Aife, Meisterin des Mystischen",
+    "element": "Wasser",
+    "type": "Charakter: Fae Magier",
+    "content": "\nImmer wenn du einen Zauber oder eine Aura spielst beschwöre einen Vasallen-Spielstein.\nBezahle 3 Energie und erschöpfe mich: Deine Vasallen-Spielsteine erhalten Listig und Tapfer bis zum Ende des Zuges.\n",
+    "mana": "4 Energie",
+    "statline": "2/4"
+  },
+  {
+    "name": "Seifenblasen Hasen",
+    "element": "Wasser",
+    "type": "Aktion-Zauber",
+    "content": "\nBlitzschnell\n1 Charakter deiner Wahl erhält -2/-0 und ein weiterer deiner Wahl erhält +0/+2.\n",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Entschärfen",
+    "element": "Wasser",
+    "type": "Aktion: Zauber",
+    "content": "\nBlitzschnell\nWähle 1 aus\n-\tDas Spielen 1 Fallen-Karte deiner Wahl misslingt.\n-\tZerstöre eine Aura deiner Wahl.\n",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Rune der Nebelkinder ",
+    "element": "Wasser",
+    "type": "Aura",
+    "content": "\nVerzaubere einen Charakter.\nDer verzauberte Charakter erhält Listig.\n",
+    "mana": "4 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Zauberstab des Magus",
+    "element": "Wasser",
+    "type": "Artefakt: Ausrüstung",
+    "content": "\nImmer wenn du einen Zauber oder eine Aura spielst erhält der ausgerüstete Charakter +1+1 bis zum Ende dieses Zuges.\n",
+    "mana": "3 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Gemeinsame Traumreise",
+    "element": "Wasser",
+    "type": "Aktion: Zauber",
+    "content": "\nTeam Arbeit\nAls zusätzliche Kosten für diesen Zauber erschöpfe einen Charakter.\nZiehe 5 Karten, dann mische 2 Karten deiner Wahl aus deiner Hand in dein Deck zurück.\nJede Mitspielerin die geholfen hat diesen Zauber zu spielen kopiert ihn. Die Energiekosten der Kopien sind 0.\n",
+    "mana": "6 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Buch der Zauber",
+    "element": "Wasser",
+    "type": "Artefakt",
+    "content": "\nZauber und Auren die du spielst kosten 1 Energie weniger.\n",
+    "mana": "3 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Zauberlehrling",
+    "element": "Wasser",
+    "type": "Charakter: Mensch Magierin",
+    "content": "\nWenn du den Zauberlehrling spielst, nehme einen Zauber oder eine Aura deiner Wahl aus deinem Friedhof auf deine Hand zurück.\n",
+    "mana": "3 Energie",
+    "statline": "1/2"
+  },
+  {
+    "name": "Runen des Schutzes",
+    "element": "Wasser",
+    "type": "Aura",
+    "content": "\nVerzaubere einen Charakter oder ein Gebäude.\nFalls Rune des Schutzes einen Charakter verzaubert erhält dieser +0/+2.\nFalls Rune des Schutzes ein Gebäude verzaubert erhält dieses +0/+4.\n",
+    "mana": "1 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Drittes Auge",
+    "element": "",
+    "type": "Wasser ",
+    "content": "\nAura\nVerzaubere einen Charakter.\nWenn der verzauberte Charakter Kampfschaden an der Festung macht, ziehen du und eine deiner Mitspielerinnen 1 Karte.\n",
+    "mana": "3 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Kristallkugel",
+    "element": "Wasser",
+    "type": "Artefakt",
+    "content": "\nFühre Hellsicht 1 in deiner Erholungsphase aus.\n",
+    "mana": "3 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Turm des Zauberers",
+    "element": "",
+    "type": "Wasser ",
+    "content": "\nGebäude\nImmer wenn du einen Zauber oder eine Aura spielst, nehme einen Zauber oder eine Aura aus dem Friedhof auf die Hand zurück.\n",
+    "mana": "5 Energie",
+    "statline": "0/4"
+  },
+  {
+    "name": "Weisheit der Ältesten",
+    "element": "",
+    "type": "Wasser ",
+    "content": "\nAktion: Zauber\nDurchsuche dein Deck nach einem Zauber oder einer Aura und nehme sie auf die Hand.\n",
+    "mana": "4 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Heroischer Hausgeist",
+    "element": "",
+    "type": "Wasser ",
+    "content": "\nCharakter: Fae Hund\nWenn der heroische Hausgeist Schaden an der Festung macht, ziehe 1 Karte.\nListig\n1/2 \n",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Fessel Falle",
+    "element": "Wasser",
+    "type": "Aktion: Zauber",
+    "content": "\nBlitzschnell\nLege zwei Schock-Marken auf einen Charakter deiner Wahl.\n",
+    "mana": "3 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Winde des Winters",
+    "element": "Wasser",
+    "type": "Aktion: Zauber",
+    "content": "\nBlitzschnell\nErschöpfe 2 Charaktere deiner Wahl.\nFalls dieser Zauber geupgradet wurde, lege eine Schock-Marke auf die erschöpften Charaktere.\n",
+    "mana": "Upgrade: 2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Fae Beschwörung",
+    "element": "",
+    "type": "Wasser ",
+    "content": "\nAktion-Zauber\nBeschwöre 2 Vasallen-Spielsteine.\n",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Mystische Studie",
+    "element": "Wasser",
+    "type": "Aktion: Zauber",
+    "content": "\nZiehe 2 Karten\nWenn du diese Karte geupgradet hast, führe zuerst Hellsicht 2 aus dann ziehe 2 Karten.\n",
+    "mana": "Upgrade: 1 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Leigh, Naive Hexe",
+    "element": "",
+    "type": "Wasser ",
+    "content": "\nCharakter- Heldin Mensch Magierin\nErschöpfe mich: Decke die obersten 2 Karten deines Decks auf. Nehme einen Zauber oder eine Aura die so aufgedeckt wurde auf die Hand und lege den Rest in deinen Friedhof.\n",
+    "mana": "",
+    "statline": "1/4"
+  },
+  {
+    "name": "Vasall",
+    "element": "",
+    "type": "Charakter-Spielstein: Fae",
+    "content": "\n",
+    "mana": "",
+    "statline": "1/1"
+  },
+  {
+    "name": "Schwelle zur Anderen Welt",
+    "element": "Wasser",
+    "type": "Aktion: Zauber",
+    "content": "\nJede Spielerin darf X Karten aus ihrer Hand in ihr Deck mischen, dann zieht jede Spielerin X+1 Karten.\nSchicke Schwelle zur Anderen Welt ins Exil.\n",
+    "mana": "0 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Helm der Mohan",
+    "element": "Metall",
+    "type": "Artefakt Ausrüstung",
+    "content": "\nDer ausgerüstete Charakter erhält +0/+2 und Tollkühn.\n",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Windschnitt, Klinge der See",
+    "element": "Metall",
+    "type": "Artefakt Ausrüstung",
+    "content": "\nDer ausgerüstete Charakter erhält +2/+0 und Geschickt.\n",
+    "mana": "3 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Egelsklinge",
+    "element": "",
+    "type": "Metall ",
+    "content": "\nMulti Upgrade: Füge dem Dorf 2 Schaden zu\nDer ausgerüstete Charakter erhält +2/+2.\nWenn der ausgerüstete Charakter angreift Heile das Dorf 1 für jedes Mal das du diese Karte geupgradet hast.\n",
+    "mana": "5 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Treue Schild-Maid ",
+    "element": "",
+    "type": "Metall ",
+    "content": "\nCharakter Mensch Kriegerin\nAusrüstungen die du spielst kosten 1 Energie weniger.\nTapfer\n",
+    "mana": "3 Energie",
+    "statline": "2/2"
+  },
+  {
+    "name": "Annie & Bonnie",
+    "element": "Metall",
+    "type": "Artefakt Ausrüstung",
+    "content": "\nAusgerüsteter Charakter erhält +1+0\nWenn du Annie und Bonnie spielst, beschwöre einen Splitterspielstein.\n",
+    "mana": "1 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Verirrte Seele ",
+    "element": "Metall",
+    "type": "Charakter Geist Krieger",
+    "content": "\nImmer wenn du ein Artefakt spielst, beschwöre 1 Splitter-Spielstein.\nWaffenmeister\n",
+    "mana": "4 Energie",
+    "statline": "3/3"
+  },
+  {
+    "name": "Test der Ahnen",
+    "element": "Metall",
+    "type": "Aktion",
+    "content": "\nZiehe X Karten wobei X die Stärke deines Helden ist.\n",
+    "mana": "5 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Blutbad-Symphonie",
+    "element": "Metall",
+    "type": "Aktion",
+    "content": "\nBlitzschnell\nEin Charakter deiner Wahl im Kampffeld schlägt jeden anderen Charakter im Kampffeld.\n",
+    "mana": "7 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Dämon der Vergessenen Sünden",
+    "element": "Metall",
+    "type": "Charakter Dämon",
+    "content": "\nMulti-Upgrade: Füge dem Dorf 1 Schaden zu\nWenn der Dämon der Vergessenen Sünden angreift kannst du eine Ausrüstung opfern um einem anderen Charakter deiner Wahl Brutal bis zum Ende des Zuges zu geben.\nWenn du diese Karte spielst beschwöre einen Splitter-Spielstein für jedes Mal das du sie geupgradet hast.\nBrutal, Tollkühn, Waffenmeister\n",
+    "mana": "7 Energie",
+    "statline": "5/5"
+  },
+  {
+    "name": "Dunkler Pakt",
+    "element": "Metall",
+    "type": "Aura",
+    "content": "\nErschöpfe mich Füge dem Dorf 1 Schaden zu, dann ziehe 1 Karte.\n",
+    "mana": "3 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Ketten der Carceri",
+    "element": "Metall",
+    "type": "Artefakt Ausrüstung",
+    "content": "\nWerfe eine Karte ab, der ausgerüstete Charakter fügt einem Ziel deiner Wahl 2 Schaden zu.\n",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Ruheloser Geist",
+    "element": "Metall",
+    "type": "Charakter: Geist Krieger",
+    "content": "\nWenn dieser Charakter stirbt, beschwöre 2 Splitterspielsteine.\nTollkühn\n",
+    "mana": "4 Energie",
+    "statline": "3/2"
+  },
+  {
+    "name": "Waffenmeisters Finesse",
+    "element": "Metall",
+    "type": "Aktion",
+    "content": "\nBlitzschnell\nUpgrade: Werfe 1 Karte ab.\nWähle 1 aus:\n-\tBeschwöre 2 Splitter-Spielsteine.\n-\tSchicke Zwei Karten deiner Wahl aus einem Friedhof ins Exil.\n-\tEin verbündeter Charakter deiner Wahl und ein gegnerischer Charakter deiner Wahl schlagen sich gegenseitig.\nWenn du diese Karte geupgradet hast, kostet sie 2 Energie weniger zu spielen.\n",
+    "mana": "3 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Splittersturm",
+    "element": "Metall",
+    "type": "Aura",
+    "content": "\nImmer wenn ein Charakter ausgerüstet wird schlägt er einen Charakter deiner Wahl.\n",
+    "mana": "5 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Mondscheinsichel",
+    "element": "Metall",
+    "type": "Artefakt: Ausrüstung",
+    "content": "\nWenn du Mondscheinsichel spielst, ziehe 1 Karte.\nWenn der ausgerüstete Charakter angreift, fügt er einem Charakter deiner Wahl 2 Schaden zu.\n",
+    "mana": "4 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Klauen der Wyld",
+    "element": "Metall",
+    "type": "Artefakt: Ausrüstung",
+    "content": "\nErschöpfe mich: Lege 3 +1/+1 Marken auf den ausgerüsteten Charakter.\n",
+    "mana": "5 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Klingenwirbel",
+    "element": "Metall",
+    "type": "Aktion",
+    "content": "\nVerteile X Schaden an Gegnern wobei X die Anzahl an Ausrüstungen ist die du kontrollierst\nWenn diese Karte geupgradet wurde beschwöre 2 Splitter-Spielsteine.\n",
+    "mana": "Upgrade: 3 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Ruf des Blutes",
+    "element": "Metall",
+    "type": "Aura",
+    "content": "\nDas erste Mal in einem Zug, wenn ein Held alleine angreift, erfrische ihn. Nach dieser Kampfphase gibt es eine zweite Kampfphase.\n",
+    "mana": "6 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Parasitäre Rüstung",
+    "element": "",
+    "type": "Metall ",
+    "content": "\nArtefakt: Ausrüstung\nBlitzschnell\nUpgrade: Werfe 1 Karte ab\nDer Ausgerüstete Charakter erhält +1/+2\nWenn du diese Karte geupgradet hast erhält der ausgerüstete Charakter zusätzlich Unzerstörbar bis zum Ende des Zuges.\n",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Geist der Ruine",
+    "element": "Metall",
+    "type": "Charakter: Geist",
+    "content": "\nWenn du Geist der Ruine spielst beschwöre einen Splitter-Spielstein.\n",
+    "mana": "1 Energie",
+    "statline": "0/2"
+  },
+  {
+    "name": "Versteckte Waffe",
+    "element": "Metall",
+    "type": "Aktion",
+    "content": "\nBlitzschnell\nWähle eine Ausrüstung aus deiner Hand aus und rüste ein Held deiner Wahl damit aus.\n",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Riuchgul, Stählerne Friedhof",
+    "element": "Metall",
+    "type": "Gebäude",
+    "content": "\nImmer wenn ein verbündeter Charakter mit Waffenmeister angreift, kannst du zwei Splitter-Spielstein beschwören und den angreifenden Charakter damit ausrüsten.\n",
+    "mana": "5 Energie",
+    "statline": "0/6"
+  },
+  {
+    "name": "Schmied der Schwarzen Magie",
+    "element": "Metall",
+    "type": "Charakter Mensch Handwerker",
+    "content": "\nWenn du Schmied der Schwarzen Schmiede spielst decke die oberste Karte deines Decks auf bis du eine Ausrüstungskarte aufdeckst, dann nehme sie auf deine Hand und mische den Rest der Karten in dein Deck zurück\n",
+    "mana": "4 Energie",
+    "statline": "2/4"
+  },
+  {
+    "name": "Dwerach, Welches im Blut badet",
+    "element": "Metall",
+    "type": "Artefakt: Ausrüstung",
+    "content": "\nUm diese Karte zu spielen musst du eine andere Karte abwerfen.\nDer ausgerüstete Charakter erhält +3/+0 Brutal und Wild.\n",
+    "mana": "6 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Lanze der Wächter",
+    "element": "Metall",
+    "type": "Artefakt: Ausrüstung",
+    "content": "\nDer Ausgerüstete Charakter Erhält +1/+2, Tapfer und Wachsam.\n",
+    "mana": "3 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Ungebändigter Wille",
+    "element": "Metall",
+    "type": "Aktion",
+    "content": "\nBlitzschnell\nDas nächste Mal, wenn ein Charakter deiner Wahl sterben würde bringe ihn stattdessen erschöpft aufs Spielfeld zurück.\n",
+    "mana": "1 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Trainingspuppe",
+    "element": "Metall",
+    "type": "Charakter: Maschine",
+    "content": "\nImmer wenn du einen Charakter ausrüstest, ziehe 1 Karte.\n",
+    "mana": "2 Energie",
+    "statline": "0/3"
+  },
+  {
+    "name": "Glamschett, Seelen Dieb ",
+    "element": "Metall",
+    "type": "Legendäres Artefakt: Ausrüstung",
+    "content": "\nImmer wenn der ausgerüstete Charakter einen Charakter tötet schicke ihn ins Exil.\nDer ausgerüstete Charakter erhält alle Fähigkeiten-Wörter der Charaktere die mit Glamschett ins Exil geschickt wurden.\n",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Melodie der Verlorenen",
+    "element": "Metall",
+    "type": "Artefakt: Ausrüstung",
+    "content": "\nDer Ausgerüstete Charakter erhält +1/+1.\nImmer wenn der ausgerüstete Charakter einen Charakter tötet, Ziehe 1 Karte.\n",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Stahl-Wind-Streich",
+    "element": "Metall",
+    "type": "Aktion",
+    "content": "\nBlitzschnell\nEin Held deiner Wahl schlägt einen Charakter deiner Wahl.\n",
+    "mana": "3 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Lu, Gewählte des Krieges",
+    "element": "Metall",
+    "type": "Charakter-Heldin: Geist Kriegerin",
+    "content": "\nImmer wenn Lu einen Charakter tötet, lege eine +1/+1 Marke auf Lu.\nGeschickt, Tollkühn, Waffenmeister\n",
+    "mana": "",
+    "statline": "2/2"
+  },
+  {
+    "name": "Splitter",
+    "element": "Metall",
+    "type": "Artefakt-Spielstein: Ausrüstung",
+    "content": "\nDer ausgerüstete Charakter erhält +1+0.\n",
+    "mana": "",
+    "statline": ""
+  },
+  {
+    "name": "Trochghet, Die Erlösung Neugeboren ",
+    "element": "Metall",
+    "type": "Legendäres Artefakt: Ausrüstung",
+    "content": "\nWenn der ausgerüstete Charakter einen Charakter tötet, schicke ihn ins Exil, dann schlägt der ausgerüstete Charakter die Festung.\n",
+    "mana": "0 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Ritus des Frühlings",
+    "element": "Holz",
+    "type": "Aktion: Zauber",
+    "content": "\nBlitzschnell\nAktiviere die Blüte Fähigkeit einer verbündeten Permanenten.\nZiehe 1 Karte.\n",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Herald der Blüte",
+    "element": "Holz",
+    "type": "Charakter: Drache Elementar",
+    "content": "\nTeamarbeit\nWenn Herald der Blüte angreift, aktiviere alle Blüte-Fähigkeiten von Verbündeten Permanenten.\nBrutal, Zäh\n",
+    "mana": "9 Energie",
+    "statline": "8/8"
+  },
+  {
+    "name": "Pollen Fee",
+    "element": "Holz",
+    "type": "Charakter: Fae Elementar",
+    "content": "\nErschöpfe mich: Aktiviere die Blütenfähigkeit einer verbündeten Permanenten\n",
+    "mana": "1 Energie",
+    "statline": "1/1"
+  },
+  {
+    "name": "Marsch des Waldes",
+    "element": "Holz",
+    "type": "Aura",
+    "content": "\nIn deiner Erholungsphase beschwöre einen Verbündeten-Spielstein.\nAlle Elementare die du kontrollierst erhalten +3/+3.\n",
+    "mana": "8 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Grünen Gassen",
+    "element": "Holz",
+    "type": "Aura",
+    "content": "\nCharakter-Karten in deiner Hand erhalten Blitzschnell.\n",
+    "mana": "5 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Leylinien Wanderer",
+    "element": "Holz",
+    "type": "Bezahle 3 Energie: Decke die unterste Karte deines Decks auf und lege sie erschöpft in deinen Energiepool.",
+    "content": "\n",
+    "mana": "4 Energie",
+    "statline": "3/2"
+  },
+  {
+    "name": "Unsterbliches Wissen",
+    "element": "Holz",
+    "type": "X+2",
+    "content": "\nAktion: Zauber\nVorhersage 1\nZiehe X Karten.\n",
+    "mana": "",
+    "statline": ""
+  },
+  {
+    "name": "Gefräßiger Alligator",
+    "element": "Holz",
+    "type": "Charakter: Biest Elementar",
+    "content": "\nBlüte: Gefräßiger Alligator und ein gegnerischer Charakter deiner Wahl schlagen sich gegenseitig. Dann, falls der gegnerische Charakter gestorben ist erhält Gefräßiger Alligator Zäh bis zum Ende des Zuges.\n",
+    "mana": "6 Energie",
+    "statline": "4/6"
+  },
+  {
+    "name": "Transzendiertes Teehaus",
+    "element": "",
+    "type": "Holz ",
+    "content": "\nGebäude\n",
+    "mana": "Blüte: Erzeuge 1 Energie",
+    "statline": "0/4"
+  },
+  {
+    "name": "Erwachender Titan",
+    "element": "Holz",
+    "type": "Charakter: Elementar Kruv",
+    "content": "\nWenn du Erwachender Titan spielst erschöpfe ihn, dann lege 4 Schock-Marken auf Erwachender Titan.\nBlüte: Entferne 1 Schock-Marke von Erwachender Titan.\nBrutal\n",
+    "mana": "5 Energie",
+    "statline": "8/8"
+  },
+  {
+    "name": "Leylinie ",
+    "element": "Holz",
+    "type": "Aura",
+    "content": "\nTeam-Arbeit\nWenn du Leyline spielst, lege die untersten 2 Karten deines Decks erschöpft in deinen Energiepool.\nBezahle 3 Energie: Ziehe 1 Karte\n",
+    "mana": "8 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Uralter Gärtner",
+    "element": "Holz",
+    "type": "Charakter: Elementar Kruv",
+    "content": "\nImmer wenn du einen Blüte Effekt einer deiner Permanenten aktivierst, aktiviere ihn ein weiteres Mal.\nZäh\n",
+    "mana": "7 Energie",
+    "statline": "3/6"
+  },
+  {
+    "name": "Kräuterheilerin",
+    "element": "Holz",
+    "type": "Charakter: Elementar Kruv Schamanin",
+    "content": "\nBlüte: entferne 1 Schadensmarke von einem Charakter deiner Wahl, dann wenn du 8 oder mehr Karten in deinem Energiepool hast, ziehe 1 Karte.\n",
+    "mana": "2 Energie",
+    "statline": "1/3"
+  },
+  {
+    "name": "Rituale der Ahnen",
+    "element": "Holz",
+    "type": "X+1 Energie ",
+    "content": "\nAktion: Zauber\nBlitzschnell\nWähle 1 aus:\n-\tVerteile X +1/+1 Marken auf verbündeten Charakteren.\n-\tBeschwöre 1/3 X (aufgerundet) Verbündeten Spielsteine.\n-\tDecke die obersten X Karten deines Decks auf, nehme 2 der aufgedeckten Karten auf die Hand und mische den Rest in dein Deck zurück.\n",
+    "mana": "",
+    "statline": ""
+  },
+  {
+    "name": "Terror des Moors",
+    "element": "Holz",
+    "type": "Charakter: Elementar Drache",
+    "content": "\nBrutal, Wild, Zäh\n",
+    "mana": "7 Energie",
+    "statline": "6/5"
+  },
+  {
+    "name": "Erbin der Ältesten",
+    "element": "Holz",
+    "type": "Charakter Elemental Kruv Schamanin",
+    "content": "\nBlüte: führe Hellsicht 2 durch\nZäh\n",
+    "mana": "5 Energie",
+    "statline": "3/4"
+  },
+  {
+    "name": "Grotten Pflegerin",
+    "element": "Holz",
+    "type": "Charakter Elementar Kruv Schamane",
+    "content": "\nBlüte: entferne zwei Schadensmarken von einem Charakter deiner Wahl\n",
+    "mana": "2 Energie",
+    "statline": "2/2"
+  },
+  {
+    "name": "Dorniges Dickicht",
+    "element": "Holz",
+    "type": "Gebäude-Wand",
+    "content": "\nZäh\nImmer wenn ein gegnerischer Charakter Dorniges Dickicht Schaden zufügt, fügt Dorniges Dickicht ihm 3 Schaden zu\n",
+    "mana": "7 Energie",
+    "statline": "0/7"
+  },
+  {
+    "name": "Avatar des Landes",
+    "element": "Holz",
+    "type": "Charakter-Elementar",
+    "content": "\nDie Stärke und Ausdauer von Avatar des Landes entspricht der Anzahl an Karten in deinem Energiepool\n",
+    "mana": "4 Energie",
+    "statline": "X/X"
+  },
+  {
+    "name": "Priesterin der Mahay",
+    "element": "Holz",
+    "type": "Charakter Kruv Schamane",
+    "content": "\nIn deiner Erholungsphase kannst du eine zusätzliche Karte aus deiner Hand in deinen Energiepool legen\n",
+    "mana": "4 Energie",
+    "statline": "1/3"
+  },
+  {
+    "name": "Frucht der Stärke",
+    "element": "Holz",
+    "type": "Aktion: Zauber",
+    "content": "\nBlitzschnell\nLege 2 +1/+1 Marken auf einen Charakter der Wahl\n",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Mahays Segen",
+    "element": "Holz",
+    "type": "X+1",
+    "content": "\nAktion: Zauber\nBlitzschnell\nLege X +1/+1 Marken auf einen Charakter deiner Wahl\n",
+    "mana": "",
+    "statline": ""
+  },
+  {
+    "name": "Weckruf des Waldes",
+    "element": "Holz",
+    "type": "X+2",
+    "content": "\nAktion: Zauber\nBeschwöre ½ X Verbündeten-Spielsteine\n",
+    "mana": "",
+    "statline": ""
+  },
+  {
+    "name": "Ring der Ahnen",
+    "element": "Holz",
+    "type": "Gebäude",
+    "content": "\nAlle Karten deiner Verbündeten erhalten Teamarbeit\n",
+    "mana": "6 Energie",
+    "statline": "0/6"
+  },
+  {
+    "name": "Dachsbau",
+    "element": "Holz",
+    "type": "Gebäude",
+    "content": "\nBlüte: Beschwöre einen Verbündeten-Spielstein.\n",
+    "mana": "3 Energie",
+    "statline": "0/4"
+  },
+  {
+    "name": "Massives Mammut",
+    "element": "Holz",
+    "type": "Charakter: Elementar Bestie",
+    "content": "\nWenn du Massives Mammut spielst lege X +1/+1 Marken auf Massives Mammut.\nBrutal, Zäh \n",
+    "mana": "X+2 Energie",
+    "statline": "1/1"
+  },
+  {
+    "name": "Grünfinger, der Gewaltige",
+    "element": "Holz",
+    "type": "Charakter: Elementar Kruv",
+    "content": "\nWenn du Grünfinger spielst darf jede deiner Mitspielerin einen Charakter erschöpfen den sie kontrolliert.\nFalls so ein Feuer Charakter erschöpft wurde erhält Grünfinger Brutal.\nFalls so ein Wasser Charakter erschöpft ziehe 2 Karten.\nFalls so ein Erde Charakter erschöpft wurde erhält Grünfinger Tapfer.\nFalls so ein Metall Charakter erschöpft wurde erhält Grünfinger Zäh.\n",
+    "mana": "4 Energie",
+    "statline": "4/4"
+  },
+  {
+    "name": "Wachstum des Waldes",
+    "element": "Holz",
+    "type": "Aktion",
+    "content": "\nLege die unterste Karte deines Decks in deinen Energiepool.\n",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Mahay’s Herald",
+    "element": "Holz",
+    "type": "Charakter: Elementar",
+    "content": "\nWenn du Mahays Herald spielst, lege die unterste Karte deines Decks erschöpft in deinen Energiepool.\n",
+    "mana": "4 Energie",
+    "statline": "3/3"
+  },
+  {
+    "name": "Herz des Waldes",
+    "element": "Holz",
+    "type": "Gebäude",
+    "content": "\nBlüte: Ziehe 1 Karte\n",
+    "mana": "4 Energie",
+    "statline": "0/6"
+  },
+  {
+    "name": "Wandel der Zeit",
+    "element": "Holz",
+    "type": "Aktion",
+    "content": "\nLege eine Karte aus deinem Energiepool auf den Friedhof, lege die unterste Karte deines Decks in deinen Energiepool.\n",
+    "mana": "1 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Knorriger Mentor",
+    "element": "",
+    "type": "Holz ",
+    "content": "\nCharakter: Elementar Kruv Krieger\nBlüte: Lege eine +1/+1 Marke auf einen Charakter deiner Wahl.\n",
+    "mana": "3 Energie",
+    "statline": "2/3"
+  },
+  {
+    "name": "Darak, Suchender Sprössling",
+    "element": "Holz",
+    "type": "Charakter-Held: Elementar Kruv Schamane",
+    "content": "\nErschöpfe mich und lege eine Schockmarke auf mich: Decke die unterste Karte deines Decks auf und lege sie in deinen Energiepool.\n",
+    "mana": "",
+    "statline": "2/3"
+  },
+  {
+    "name": "Verbündeter",
+    "element": "Holz",
+    "type": "Charakter-Spielstein: Elementar Bestie",
+    "content": "\n",
+    "mana": "",
+    "statline": "2/2"
+  },
+  {
+    "name": "Yachi, Tempel der Mahay",
+    "element": "",
+    "type": "Holz ",
+    "content": "\nLegendäres Gebäude\nImmer wenn du Energie erzeugen würdest erzeuge doppelt so viel Energie.\nZäh\n",
+    "mana": "",
+    "statline": "0/8"
+  },
+  {
+    "name": "Rauschende Stimmung",
+    "element": "Feuer",
+    "type": "Aura",
+    "content": "\nVerzaubere eine Kreatur deiner Wahl.\nDie verzauberte Kreatur erhält Rasend und Wild.\n",
+    "mana": "1 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Explosives Experiment",
+    "element": "Feuer",
+    "type": "Aktion",
+    "content": "\nTeam-Arbeit\nZiehe 5 Karten, dann wähle zufällig 2 Karten aus deiner Hand aus und Mische sie in dein Deck.\n",
+    "mana": "6 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Prunkhafter Paradewagen ",
+    "element": "",
+    "type": "Feuer ",
+    "content": "\nGebäude\nTeam-Arbeit\nVerbündete Kreaturen erhalten Rasend.\n",
+    "mana": "6 Energie",
+    "statline": "0/6"
+  },
+  {
+    "name": "Dan, der Draufgänger ",
+    "element": "Feuer",
+    "type": "Charakter: Kobold",
+    "content": "\nBrutal, Rasend, Wild\n",
+    "mana": "1 Energie",
+    "statline": "2/2"
+  },
+  {
+    "name": "Brutale Barrage",
+    "element": "Feuer",
+    "type": "Aktion: Zauber",
+    "content": "\nBlitzschnell\nFüge allen Charakteren im Kampffeld 2 Schaden zu.\n",
+    "mana": "4 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Kaboom-Arsenal",
+    "element": "Feuer",
+    "type": "Aktion: Zauber",
+    "content": "\nBlitzschnell\nWähle 1 aus:\n-\tFüge zwei Charakteren deiner Wahl 1 Schaden zu.\n-\tBeschwöre einen Funken-Spielstein.\n-\tZerstöre ein Artefakt deiner Wahl.\nKopiere diese Karte für jedes Mal das du sie geupgradet hast. Die Energiekosten der Kopien sind 0.\n",
+    "mana": "Multi-Upgrade: 1 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Wut des Drachen",
+    "element": "Feuer",
+    "type": "X+1 Energie ",
+    "content": "\nAktion: Zauber\nMache X Schaden an einem Ziel deiner Wahl.\nKopiere diese Karte für jedes Mal, dass du sie geupgradet hast.\n",
+    "mana": "Multi-Upgrade: 2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Funkentänzer",
+    "element": "Feuer",
+    "type": "Kreatur-Elementar",
+    "content": "\nErschöpfe mich: Füge einem Ziel deiner Wahl 1 Schaden zu.\nErfrische mich immer, wenn du eine Aktions-Karte spielst.\n",
+    "mana": "2 Energie",
+    "statline": "1/1"
+  },
+  {
+    "name": "Die Böller Buben",
+    "element": "Feuer",
+    "type": "Kreatur: Kobold Barden",
+    "content": "\nWenn Die Böller Buben angreifen erhalten andere angreifende Charaktere +1+0.\nGeschickt\n",
+    "mana": "3 Energie",
+    "statline": "2/2"
+  },
+  {
+    "name": "Marsch der Tausend Lichter",
+    "element": "Feuer",
+    "type": "Aktion: Zauber",
+    "content": "\nBlitzschnell\nTeam-Arbeit\nJeder Angreifende Charakter fügt der Festung 1 Schaden zu\n",
+    "mana": "7 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Fackelträger Ferkel",
+    "element": "Feuer",
+    "type": "Charakter: Elementar Ferkel",
+    "content": "\nWenn Fackelträger Ferkel angreift beschwöre 1 Funken-Spielstein.\nBrutal, Rasend\n",
+    "mana": "5 Energie",
+    "statline": "4/3"
+  },
+  {
+    "name": "Flammenspuckerin",
+    "element": "Feuer",
+    "type": "Charakter: Kobold",
+    "content": "\nWenn Flammenspuckerin geblockt wird fügt sie dem blockenden Charakter 3 Schaden zu.\nBrutal\n",
+    "mana": "4 Energie",
+    "statline": "1/3"
+  },
+  {
+    "name": "Wunderkerzen",
+    "element": "Feuer",
+    "type": "Aktion: Zauber",
+    "content": "\nBlitzschnell\nBeschwöre 1 Funken-Spielstein.\n",
+    "mana": "1 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Rauchbombe",
+    "element": "Feuer",
+    "type": "Aktion",
+    "content": "\nBlitzschnell\nEine Kreatur deiner Wahl erhält Listig bis zum Ende des Zuges.\nFalls du diese Karte upgradest erhält die Kreatur auch Rasend.\n",
+    "mana": "Upgrade: 1 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Blitz-Böller",
+    "element": "Feuer",
+    "type": "Aktion: Zauber",
+    "content": "\nBlitzschnell\nFüge einem Charakter deiner Wahl 1 Schaden zu, dieser Charakter kann diesen Zug nicht angreifen\n",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Aufruf zum Abfeiern",
+    "element": "Feuer",
+    "type": "3 Energie ",
+    "content": "\nAktion\nDecke die obersten 5 Karten deines Decks auf und nehme 1 Charakter-Karte die so aufgedeckt wurden auf die Hand, lege den Rest in deinen Friedhof\n",
+    "mana": "",
+    "statline": ""
+  },
+  {
+    "name": "Spuk der Spiele",
+    "element": "Feuer",
+    "type": "Charakter: Elementar",
+    "content": "\nWenn Spuk der Spiele und mindestens 1 anderer verbündeter Charakter angreifen fügt Spuk der Spiele einem Ziel deiner Wahl 2 Schaden zu.\nGeschickt\n",
+    "mana": "3 Energie",
+    "statline": "2/2"
+  },
+  {
+    "name": "Ballon Brigade",
+    "element": "Feuer",
+    "type": "Charakter: Kobold",
+    "content": "\nUpgrade: 1 Energie \nFalls du diese Karte upgradest erhält die Ballon Brigade Rasend bis zum Ende des Zuges.\nListig \n",
+    "mana": "4 Energie",
+    "statline": "3/2"
+  },
+  {
+    "name": "Chaos Ingenieur",
+    "element": "Feuer",
+    "type": "Charakter: Kobold",
+    "content": "\nWenn Chaos Ingenieur angreift kannst du 1 Karte ziehen, falls du dies tust musst du danach 1 Karte abwerfen.\nGeschickt\n3/1 \n",
+    "mana": "3 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Sternenschauer, Flamme der Hoffnung",
+    "element": "Feuer",
+    "type": "Charakter: Elementar-Phoenix",
+    "content": "\nTeam-Arbeit\nBezahle 2 Energie: Sternenschauer fügt der Festung 1 Schaden zu.\nWenn in einem Zug mindestens 3 unterschiedliche Quellen der Festung Schaden zugefügt haben kannst du Sternenschauer in deiner Endphase aus dem Friedhof spielen in dem du 3 Energie zahlst.\nListig\n",
+    "mana": "6 Energie",
+    "statline": "3/4"
+  },
+  {
+    "name": "Explosiver Angriff",
+    "element": "Feuer",
+    "type": "Aktion: Zauber",
+    "content": "\nBlitzschnell\nEin angreifender Charakter deiner Wahl erhält +2+0 und Geschickt bis zum Ende des Zuges.\n",
+    "mana": "1 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Rasanter Rabauke",
+    "element": "Feuer",
+    "type": "Charakter: Kobold",
+    "content": "\nBrutal, Rasend\n",
+    "mana": "3 Energie",
+    "statline": "3/1"
+  },
+  {
+    "name": "Flammen Fanatiker",
+    "element": "Feuer",
+    "type": "Charakter: Kobold",
+    "content": "\nWenn Flammen Fanatiker angreift, fügt sie der Festung 1 Schaden zu.\nRasend\n2/1 \n",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Schwarzpulver Schmiede",
+    "element": "Feuer",
+    "type": "Gebäude",
+    "content": "\nImmer wenn eine Quelle unter deiner Kontrolle Schaden an der Festung zufügt kannst du 1 Karte ziehen, falls du dies tust musst du danach 1 Karte abwerfen.\n",
+    "mana": "5 Energie",
+    "statline": "0/7"
+  },
+  {
+    "name": "Feuerregen ",
+    "element": "",
+    "type": "Feuer\t",
+    "content": "\nAktion: Zauber\nFüge X Gegnern 1 Schaden zu und beschwöre X Funken-Spielsteine.\n",
+    "mana": "X+2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Feuerwerks Kanone",
+    "element": "Feuer",
+    "type": "Gebäude",
+    "content": "\nErschöpfe mich und einen verbündeten Charakter um der Festung 3 Schaden zu zufügen.\n",
+    "mana": "4 Energie",
+    "statline": "0/4"
+  },
+  {
+    "name": "Manisches Tüfteln",
+    "element": "Feuer",
+    "type": "Aktion",
+    "content": "\nEine deiner Mitspielerinnen deckt die obersten 4 Karten deines Decks auf, dann wählst du zwei davon zufällig aus und nimmst sie auf deine Hand und mischt die anderen beiden Karten unter dein Deck.\n",
+    "mana": "3 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Funkensprüher",
+    "element": "Feuer",
+    "type": "Artefakt: Ausrüstung",
+    "content": "\nImmer wenn der ausgerüstete Charakter angreift, fügt Funkensprüher 1 Schaden an der Festung zu.\n",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Fünkchen Fuchs",
+    "element": "Feuer",
+    "type": "Charakter: Elementar-Fuchs",
+    "content": "\nWenn du den Fünkchen Fuchs spielst, beschwöre einen Funken-Spielstein.\nListig, Rasend\n",
+    "mana": "3 Energie",
+    "statline": "2/1"
+  },
+  {
+    "name": "Knallerbse",
+    "element": "Feuer",
+    "type": "Aktion: Zauber",
+    "content": "\nBlitzschnell\nFüge einem gegnerischen Charakter oder der Festung 2 Schaden zu.\n",
+    "mana": "1 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Fynn, Aufstrebender Pyromane ",
+    "element": "",
+    "type": "Charakter-Held: Kobold Magier ",
+    "content": "\nImmer wenn eine Quelle unter deiner Kontrolle Schaden an der Festung macht, lege eine Pep-Marke auf Fynn.\nEntferne 2 Pep-Marken von Fynn: Füge der Festung 1 Schaden zu.\n",
+    "mana": "",
+    "statline": "1/3"
+  },
+  {
+    "name": "Draigg, Vater der Flammen",
+    "element": "",
+    "type": "Legendärer Charakter-Spielstein: Drache",
+    "content": "\nWenn Draigg das erste Mal in einem Zug angreift, erfrische alle verbündeten Charaktere. Nach dieser Kampfphase gibt es eine zweite Kampfphase.\nBrutal, Rasend, Unzerstörbar\n",
+    "mana": "",
+    "statline": "5/3"
+  },
+  {
+    "name": "Funken",
+    "element": "",
+    "type": "Charakter: Spielstein Elementar",
+    "content": "\nNachdem ein Funken angegriffen hat musst du ihn opfern.\nListig, Rasend, Wild\n",
+    "mana": "",
+    "statline": "1/1"
+  },
+  {
+    "name": "Inspirierender Priester",
+    "element": "Erde",
+    "type": "Charakter: Mensch Schamane",
+    "content": "\nImmer wenn du einen Charakter spielst oder beschwörst, heile das Dorf um 1.\n",
+    "mana": "4 Energie",
+    "statline": "2/3"
+  },
+  {
+    "name": "Heldenmut",
+    "element": "Erde",
+    "type": "Aura",
+    "content": "\nDer verzauberte Charakter erhält +1/+1 und deine Wahl von Tollkühn oder Tapfer.\n",
+    "mana": "3 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Champion des Lichts",
+    "element": "Erde",
+    "type": "Charakter: Mensch Krieger",
+    "content": "\nWenn Champion des Lichts angreift oder blockt beschwöre einen Wachen-Spielstein.\nWachen-Spielsteine die du kontrollierst erhalten Rasend.\nHeilig, Tapfer, Wachsam\n",
+    "mana": "7 Energie",
+    "statline": "4/5"
+  },
+  {
+    "name": "Toii, Kapitänin der Wache",
+    "element": "Erde",
+    "type": "Charakter: Mensch Kriegerin",
+    "content": "\n2 Energie: Beschwöre einen Wachen-Spielstein.\nTapfer, Wachsam\n",
+    "mana": "4 Energie",
+    "statline": "3/3"
+  },
+  {
+    "name": "Heroischer Hirtenjunge ",
+    "element": "Erde",
+    "type": "Charakter: Mensch",
+    "content": "\nImmer wenn du einen Charakter beschwörst oder spielst lege eine +1/+1 Marke auf Verträumter Bauernjunge.\nTapfer\n",
+    "mana": "1 Energie",
+    "statline": "0/2"
+  },
+  {
+    "name": "Berührung des Lichts",
+    "element": "Erde",
+    "type": "Artefakt: Ausrüstung",
+    "content": "\nDer ausgerüstete Charakter erhält +1/+1 und Heilig.\n",
+    "mana": "5 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Sternen Aegis",
+    "element": "Erde",
+    "type": "Artefakt: Ausrüstung",
+    "content": "\nBlitzschnell\nDer ausgerüstete Charakter erhält +0/+2.\n",
+    "mana": "1 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Standhafte Skulptur",
+    "element": "Erde",
+    "type": "Charakter: Elementar Golem",
+    "content": "\nErschöpfe mich und opfere mich: Konter einen Zauber deiner Wahl der eine Verbündete Permanente als Ziel hat.\nWachsam\n",
+    "mana": "4 Energie",
+    "statline": "2/2"
+  },
+  {
+    "name": "Lustiger Laden",
+    "element": "Erde",
+    "type": "Gebäude",
+    "content": "\nWenn du Lustiger Laden spielst, schicke die obersten 4 Karten deines Decks ins Exil, du kannst diese Karten spielen\n",
+    "mana": "5 Energie",
+    "statline": "0/5"
+  },
+  {
+    "name": "Morsche Kaserne ",
+    "element": "",
+    "type": "Erde ",
+    "content": "\nGebäude\nWenn ein verbündeter Charakter angreift oder blockt lege 1 +1/+1 Marke auf den Charakter \n",
+    "mana": "6 Energie",
+    "statline": "0/6"
+  },
+  {
+    "name": "Friedlicher Bauernhof",
+    "element": "Erde",
+    "type": "Gebäude",
+    "content": "\nBlüte: heile das Dorf um 2 \n",
+    "mana": "3 Energie",
+    "statline": "0/4"
+  },
+  {
+    "name": "Ostag, Unwiderstehliche Wirtin",
+    "element": "Erde",
+    "type": "Charakter: Fae ",
+    "content": "\nImmer wenn du einen Charakter spielst, ziehe 1 Karte.\n",
+    "mana": "3 Energie",
+    "statline": "1/3"
+  },
+  {
+    "name": "Vereintes Manöver",
+    "element": "Erde",
+    "type": "Blitzschnell",
+    "content": "\nMulti-Upgrade: Erschöpfe eine Verbündete Kreatur \nWähle 1 aus:\n-\tVerbündete Charaktere erhalten Unzerstörbar bis zum Ende des Zuges.\n-\tEin Charakter deiner Wahl erhält Heilig.\n-\tZerstöre eine Aura deiner Wahl.\nFür jedes Mal das diese Karte geupgradet wurde wähle einen weiteren Modus, du kannst den gleichen Modus nicht zweimal wählen.\n",
+    "mana": "3 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Gelassener Bauer",
+    "element": "Erde",
+    "type": "Charakter Mensch",
+    "content": "\nErschöpfe mich, erzeuge 1 Energie.\n",
+    "mana": "1 Energie",
+    "statline": "1/1"
+  },
+  {
+    "name": "Göttliche Intervention",
+    "element": "Erde",
+    "type": "Aktion: Zauber",
+    "content": "\nBlitzschnell\nEine Kreatur deiner Wahl erhält Unzerstörbar bis zum Ende des Zuges\n",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Mutiger Cavalier",
+    "element": "Erde",
+    "type": "Charakter: Mensch Krieger",
+    "content": "\nTollkühn\nAm Ende der Kampfphase, falls Mutiger Cavalier angegriffen hat, lege 2 +1/+1 Marken auf Mutiger Cavalier.\n",
+    "mana": "5 Energie",
+    "statline": "3/3"
+  },
+  {
+    "name": "Loyaler Knappe",
+    "element": "Erde",
+    "type": "Charakter: Mensch",
+    "content": "\nTapfer\nWenn Loyaler Knappe angreift oder blockt, lege 1 +1/+1 Marke auf eine verbündete Kreatur deiner Wahl im Kampffeld.\n",
+    "mana": "2 Energie",
+    "statline": "1/2"
+  },
+  {
+    "name": "Läutet die Glocken",
+    "element": "",
+    "type": "Erde ",
+    "content": "\nAktion\nBlitzschnell\nVerbündete Charakter erhalten Wachsam bis zum Ende des Zuges.\nBeschwöre 1 Wache-Spielstein für jedes Mal das du diesen Zauber geupgradet hast.\n",
+    "mana": "Multi-Upgrade: 2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Kauziger Wanderer",
+    "element": "Erde",
+    "type": "Charakter: Kobold ",
+    "content": "\nWenn du Kauziger Wanderer spielst, schicke die oberste Karte deines Decks ins Exil, für den Rest des Spiels kannst du diese Karte spielen\n",
+    "mana": "2 Energie",
+    "statline": "1/2"
+  },
+  {
+    "name": "Wachtrupp Lieutenant",
+    "element": "Erde",
+    "type": "Charakter: Kobold Krieger",
+    "content": "\nWenn du Kapitän der Wache spielst, beschwöre 2 Wachen-Spielsteine.\nTapfer, Wachsam\n",
+    "mana": "6 Energie",
+    "statline": "2/2"
+  },
+  {
+    "name": "Festmahl",
+    "element": "",
+    "type": "Erde ",
+    "content": "\nAktion\nTeam-Arbeit\nEntferne alle Schadensmarken von verbündeten Kreaturen.\n",
+    "mana": "6 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Barrikade",
+    "element": "Erde",
+    "type": "Gebäude: Wand",
+    "content": "\n",
+    "mana": "3 Energie",
+    "statline": "0/3"
+  },
+  {
+    "name": "Großzügige Großmutter",
+    "element": "Erde",
+    "type": "Charakter Mensch",
+    "content": "\nErschöpfe mich, entferne 3 Schadensmarken von einem Charakter deiner Wahl.\n",
+    "mana": "2 Energie",
+    "statline": "1/4"
+  },
+  {
+    "name": "Morred, Eloquenter Bürgermeister",
+    "element": "",
+    "type": "Erde ",
+    "content": "\nCharakter: Mensch Adeliger\nDeine Charaktere kosten 1 Energie weniger.\n",
+    "mana": "3 Energie",
+    "statline": "2/3"
+  },
+  {
+    "name": "Trunkenbolds Gold, Stamm-Taverne",
+    "element": "Erde",
+    "type": "Gebäude",
+    "content": "\nAm Ende deines Zuges entferne 2 Schadensmarken von jeder erschöpften Kreatur.\n",
+    "mana": "2 Energie",
+    "statline": "0/4"
+  },
+  {
+    "name": "Gesegneter Ritter",
+    "element": "Erde",
+    "type": "Charakter: Krieger Mensch",
+    "content": "\nHeilig\n",
+    "mana": "4 Energie",
+    "statline": "2/2"
+  },
+  {
+    "name": "Wachposten",
+    "element": "Erde",
+    "type": "Gebäude",
+    "content": "\nImmer wenn ein gegnerischer Charakter das Dorf angreift, beschwöre einen Wachen-Spielstein.\n",
+    "mana": "7 Energie",
+    "statline": "0/7"
+  },
+  {
+    "name": "Shnort, Mürrischer Lehrmeister",
+    "element": "Erde",
+    "type": "Charakter: Mensch Krieger",
+    "content": "\nImmer wenn du einen Charakter beschwörst oder spielst, lege eine +1/+1 Marke auf den Charakter.\n",
+    "mana": "3 Energie",
+    "statline": "2/3"
+  },
+  {
+    "name": "Reisender Händler",
+    "element": "Erde",
+    "type": "Charakter: Mensch",
+    "content": "\nErschöpfe mich um die oberste Karte deines Decks ins Exil zu schicken.\nDu kannst Karten die Reisender Händler ins Exil geschickt hat spielen.\n",
+    "mana": "3 Energie",
+    "statline": "2/2"
+  },
+  {
+    "name": "Begeisterte Bannerherrin",
+    "element": "",
+    "type": "Erde ",
+    "content": "\nCharakter: Mensch Kriegerin\nImmer wenn Begeisterte Bannerherrin blockt oder angreift, entferne 1 Schadensmarke von jeder Verbündeten Kreatur im Schlachtfeld.\nTapfer\n",
+    "mana": "5 Energie",
+    "statline": "4/4"
+  },
+  {
+    "name": "Alidh, Held des Dorfes",
+    "element": "Erde",
+    "type": "Charakter-Heldin: Mensch Kriegerin",
+    "content": "\nImmer wenn Alidh blockt, beschwöre einen Wache-Spielstein.\nTapfer, Wachsam, Zäh\n",
+    "mana": "",
+    "statline": "2/4"
+  },
+  {
+    "name": "Wache",
+    "element": "Erde",
+    "type": "Charakter-Spielstein: Mensch Krieger",
+    "content": "\nWachsam\n",
+    "mana": "",
+    "statline": "2/2"
+  }
+]

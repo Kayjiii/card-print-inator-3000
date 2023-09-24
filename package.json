@@ -7,7 +7,7 @@
     "buildWatch": "tsc --watch",
     "build": "tsc",
     "start": "node --enable-source-maps .",
-    "devStart": "nodemon --ignore config --enable-source-maps .",
+    "devStart": "nodemon --ignore config --ignore saves --enable-source-maps .",
     "dev": "concurrently \"npm run buildWatch\" \"npm run devStart\""
   },
   "keywords": [],

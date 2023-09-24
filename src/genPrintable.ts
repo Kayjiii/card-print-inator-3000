@@ -5,8 +5,9 @@ import * as fs from 'fs'
 import { createCanvas, loadImage, registerFont } from "canvas";
 import { createWriteStream } from "fs";
 import { config } from "process";
+import { Card } from "./custom";
 
-export async function genPrintable(filename: string) {
+export async function genPrintable(cards: Card[]) {
     /*fs.readdir('./pictures', (err, files) => {
         if (err) throw err;
       
@@ -18,15 +19,12 @@ export async function genPrintable(filename: string) {
       });*/
     // delete all files from picture folder
 
-    let cards = getCards(filename)
     registerFont('ComicSans.ttf', { family: 'Comic Sans' })
     const canvas = createCanvas(2480, 3508, "pdf")
     const ctx = canvas.getContext("2d")
     ctx.textDrawingMode = 'glyph'
     let picNo = 1
     for (let i = 0; i < cards.length; i++) {
-        console.log("tur")
-        
         const el = cards[i]
         genOneCard(el, `./pictures/${i}`)
     }
