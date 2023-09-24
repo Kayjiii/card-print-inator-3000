@@ -4,21 +4,21 @@ import { Card } from "./custom";
 
 
 const textMargin = 50
-let borderMargin = 30
-let nameFontSize = 80
+const borderMargin = 30
+const nameFontSize = 80
 
-let typeFontSize = 60
+const typeFontSize = 50
 
 
-let contentFontSize = 40
-let contentTextHeight = 300
+const contentFontSize = 40
+const contentTextHeight = 300
 
-let statFontSize = 60
-let statHeight = 1000
-let statwidth = 240
+const statFontSize = 60
+const statHeight = 1000
+const statwidth = 240
 
-let manaFontSize = 60
-let manawidth = 140
+const manaFontSize = 60
+const manawidth = 140
 
 export function genOneCard(card: Card, destination:string) {
 
@@ -48,7 +48,6 @@ export function genOneCard(card: Card, destination:string) {
     const stream = canvas.createJPEGStream()
     stream.pipe(out)
 }
-
 
 function addBorders(element: string, ctx: CanvasRenderingContext2D, canvaswidth: number, canvasheight: number) {
     let borderColor = 'white'
@@ -94,10 +93,11 @@ function addName(name:string, ctx:CanvasRenderingContext2D, canvaswidth:number) 
 
     let maxwidth = canvaswidth - (textMargin + manawidth)
     if (namewidth > maxwidth) {
-        nameFontSize = nameFontSize * maxwidth / namewidth
-        ctx.font = nameFontSize + 'px "Comic Sans"'
+        let currentFontSize = nameFontSize
+        currentFontSize = currentFontSize * maxwidth / namewidth
+        ctx.font = currentFontSize + 'px "Comic Sans"'
     }
-    ctx.fillText(name, textMargin, 90)
+    ctx.fillText(name, textMargin, 100)
 }
 
 function addMana(mana:string, ctx:CanvasRenderingContext2D, canvaswidth:number) {
@@ -115,8 +115,9 @@ function addType(type:string, ctx:CanvasRenderingContext2D, canvaswidth:number) 
 
     let maxwidth = canvaswidth - (textMargin * 2)
     if (typewidth > maxwidth) {
-        typeFontSize = typeFontSize * maxwidth / typewidth
-        ctx.font = typeFontSize + 'px "Comic Sans"'
+        let currentFontSize = typeFontSize
+        currentFontSize = currentFontSize * maxwidth / typewidth
+        ctx.font = currentFontSize + 'px "Comic Sans"'
     }
     ctx.fillText(type, textMargin, 200)
 }
@@ -149,6 +150,7 @@ function addContent(content: string, ctx: CanvasRenderingContext2D, canvasheight
     
     ctx.fillText(outText, textMargin, contentTextHeight)
 }
+
 
 function addStats(statline: string, ctx: CanvasRenderingContext2D, canvasheight: number, canvaswidth: number) {
     ctx.font = statFontSize + 'px "Comic Sans"'

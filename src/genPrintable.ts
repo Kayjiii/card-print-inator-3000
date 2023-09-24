@@ -24,6 +24,7 @@ export async function genPrintable(cards: Card[]) {
     const ctx = canvas.getContext("2d")
     ctx.textDrawingMode = 'glyph'
     let picNo = 1
+    
     for (let i = 0; i < cards.length; i++) {
         const el = cards[i]
         genOneCard(el, `./pictures/${i}`)

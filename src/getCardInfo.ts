@@ -38,7 +38,7 @@ export function getCards(filename: string) {
         
         if (elements.test(el)) {
             cards[0].element = el
-        } else if (manaPattern.test(el)) {
+        } else if (manaPattern.test(el) && cards[0].mana == "") {
             cards[0].mana = el
         } else if (statlinePattern.test(el)) {
             cards[0].statline = el
@@ -50,6 +50,7 @@ export function getCards(filename: string) {
             cards[0].content = `${cards[0].content}\n${el}` //never touch!!! wackyness incoming & adds \n at the front !pls fix me!
         }
     }
+    
     return cards
 }
 
