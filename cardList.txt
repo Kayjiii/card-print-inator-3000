@@ -14,7 +14,7 @@ Tapfer, Wachsam, Zäh
 
 
 Begeisterte Bannerherrin
-Erde 
+Erde
 5 Energie
 Charakter: Mensch Kriegerin
 Immer wenn Begeisterte Bannerherrin blockt oder angreift, entferne 1 Schadensmarke von jeder Verbündeten Kreatur im Schlachtfeld.
@@ -64,7 +64,7 @@ Am Ende deines Zuges entferne 2 Schadensmarken von jeder erschöpften Kreatur.
 
 
 Morred, Eloquenter Bürgermeister
-Erde 
+Erde
 3 Energie
 Charakter: Mensch Adeliger
 Deine Charaktere kosten 1 Energie weniger.
@@ -87,7 +87,7 @@ Gebäude: Wand
 
 
 Festmahl
-Erde 
+Erde
 6 Energie
 Aktion
 Team-Arbeit
@@ -106,13 +106,13 @@ Tapfer, Wachsam
 Kauziger Wanderer
 Erde
 2 Energie
-Charakter: Kobold 
+Charakter: Kobold
 Wenn du Kauziger Wanderer spielst, schicke die oberste Karte deines Decks ins Exil, für den Rest des Spiels kannst du diese Karte spielen
 1/2
 
 
 Läutet die Glocken
-Erde 
+Erde
 2 Energie
 Aktion
 Blitzschnell
@@ -161,16 +161,16 @@ Erde
 Blitzschnell
 Multi-Upgrade: Erschöpfe eine Verbündete Kreatur 
 Wähle 1 aus:
--	Verbündete Charaktere erhalten Unzerstörbar bis zum Ende des Zuges.
--	Ein Charakter deiner Wahl erhält Heilig.
--	Zerstöre eine Aura deiner Wahl.
+- Verbündete Charaktere erhalten Unzerstörbar bis zum Ende des Zuges.
+- Ein Charakter deiner Wahl erhält Heilig.
+- Zerstöre eine Aura deiner Wahl.
 Für jedes Mal das diese Karte geupgradet wurde wähle einen weiteren Modus, du kannst den gleichen Modus nicht zweimal wählen.
 
 
 Ostag, Unwiderstehliche Wirtin
 Erde
 3 Energie
-Charakter: Fae 
+Charakter: Fae
 Immer wenn du einen Charakter spielst, ziehe 1 Karte.
 1/3
 
@@ -183,11 +183,11 @@ Blüte: heile das Dorf um 2
 0/4
 
 
-Morsche Kaserne 
-Erde 
+Morsche Kaserne
+Erde
 6 Energie
 Gebäude
-Wenn ein verbündeter Charakter angreift oder blockt lege 1 +1/+1 Marke auf den Charakter 
+Wenn ein verbündeter Charakter angreift oder blockt lege 1 +1/+1 Marke auf den Charakter
 0/6
 
 
@@ -223,7 +223,7 @@ Artefakt: Ausrüstung
 Der ausgerüstete Charakter erhält +1/+1 und Heilig.
 
 
-Heroischer Hirtenjunge 
+Heroischer Hirtenjunge
 Erde
 1 Energie
 Charakter: Mensch
@@ -267,6 +267,7 @@ Immer wenn du einen Charakter spielst oder beschwörst, heile das Dorf um 1.
 
 
 Funken
+Feuer
 Charakter: Spielstein Elementar
 Nachdem ein Funken angegriffen hat musst du ihn opfern.
 Listig, Rasend, Wild
@@ -274,14 +275,16 @@ Listig, Rasend, Wild
 
 
 Draigg, Vater der Flammen
+Feuer
 Legendärer Charakter-Spielstein: Drache
 Wenn Draigg das erste Mal in einem Zug angreift, erfrische alle verbündeten Charaktere. Nach dieser Kampfphase gibt es eine zweite Kampfphase.
 Brutal, Rasend, Unzerstörbar
 5/3
 
 
-Fynn, Aufstrebender Pyromane 
-Charakter-Held: Kobold Magier 
+Fynn, Aufstrebender Pyromane
+Feuer
+Charakter-Held: Kobold Magier
 Immer wenn eine Quelle unter deiner Kontrolle Schaden an der Festung macht, lege eine Pep-Marke auf Fynn.
 Entferne 2 Pep-Marken von Fynn: Füge der Festung 1 Schaden zu.
 1/3
@@ -326,8 +329,8 @@ Erschöpfe mich und einen verbündeten Charakter um der Festung 3 Schaden zu zuf
 0/4
 
 
-Feuerregen 
-Feuer	
+Feuerregen
+Feuer
 X+2 Energie
 Aktion: Zauber
 Füge X Gegnern 1 Schaden zu und beschwöre X Funken-Spielsteine.
@@ -347,7 +350,7 @@ Feuer
 Charakter: Kobold
 Wenn Flammen Fanatiker angreift, fügt sie der Festung 1 Schaden zu.
 Rasend
-2/1 
+2/1
 
 
 Rasanter Rabauke
@@ -390,9 +393,9 @@ Ballon Brigade
 Feuer
 4 Energie
 Charakter: Kobold
-Upgrade: 1 Energie 
+Upgrade: 1 Energie
 Falls du diese Karte upgradest erhält die Ballon Brigade Rasend bis zum Ende des Zuges.
-Listig 
+Listig
 3/2
 
 
@@ -407,7 +410,7 @@ Geschickt
 
 Aufruf zum Abfeiern
 Feuer
-3 Energie 
+3 Energie
 Aktion
 Decke die obersten 5 Karten deines Decks auf und nehme 1 Charakter-Karte die so aufgedeckt wurden auf die Hand, lege den Rest in deinen Friedhof
 
@@ -485,7 +488,7 @@ Erfrische mich immer, wenn du eine Aktions-Karte spielst.
 
 Wut des Drachen
 Feuer
-X+1 Energie 
+X+1 Energie
 Aktion: Zauber
 Multi-Upgrade: 2 Energie
 Mache X Schaden an einem Ziel deiner Wahl.
@@ -499,9 +502,9 @@ Aktion: Zauber
 Multi-Upgrade: 1 Energie
 Blitzschnell
 Wähle 1 aus:
--	Füge zwei Charakteren deiner Wahl 1 Schaden zu.
--	Beschwöre einen Funken-Spielstein.
--	Zerstöre ein Artefakt deiner Wahl.
+- Füge zwei Charakteren deiner Wahl 1 Schaden zu.
+- Beschwöre einen Funken-Spielstein.
+- Zerstöre ein Artefakt deiner Wahl.
 Kopiere diese Karte für jedes Mal das du sie geupgradet hast. Die Energiekosten der Kopien sind 0.
 
 
@@ -513,7 +516,7 @@ Blitzschnell
 Füge allen Charakteren im Kampffeld 2 Schaden zu.
 
 
-Dan, der Draufgänger 
+Dan, der Draufgänger
 Feuer
 1 Energie
 Charakter: Kobold
@@ -521,8 +524,8 @@ Brutal, Rasend, Wild
 2/2
 
 
-Prunkhafter Paradewagen 
-Feuer 
+Prunkhafter Paradewagen
+Feuer
 6 Energie
 Gebäude
 Team-Arbeit
@@ -547,7 +550,7 @@ Die verzauberte Kreatur erhält Rasend und Wild.
 
 
 Yachi, Tempel der Mahay
-Holz 
+Holz
 Legendäres Gebäude
 Immer wenn du Energie erzeugen würdest erzeuge doppelt so viel Energie.
 Zäh
@@ -568,7 +571,7 @@ Erschöpfe mich und lege eine Schockmarke auf mich: Decke die unterste Karte dei
 
 
 Knorriger Mentor
-Holz 
+Holz
 3 Energie
 Charakter: Elementar Kruv Krieger
 Blüte: Lege eine +1/+1 Marke auf einen Charakter deiner Wahl.
@@ -622,7 +625,7 @@ Holz
 X+2 Energie
 Charakter: Elementar Bestie
 Wenn du Massives Mammut spielst lege X +1/+1 Marken auf Massives Mammut.
-Brutal, Zäh 
+Brutal, Zäh
 1/1
 
 
@@ -721,9 +724,9 @@ X+1 Energie
 Aktion: Zauber
 Blitzschnell
 Wähle 1 aus:
--	Verteile X +1/+1 Marken auf verbündeten Charakteren.
--	Beschwöre 1/3 X (aufgerundet) Verbündeten Spielsteine.
--	Decke die obersten X Karten deines Decks auf, nehme 2 der aufgedeckten Karten auf die Hand und mische den Rest in dein Deck zurück.
+- Verteile X +1/+1 Marken auf verbündeten Charakteren.
+- Beschwöre 1/3 X (aufgerundet) Verbündeten Spielsteine.
+- Decke die obersten X Karten deines Decks auf, nehme 2 der aufgedeckten Karten auf die Hand und mische den Rest in dein Deck zurück.
 
 
 Kräuterheilerin
@@ -743,7 +746,7 @@ Zäh
 3/6
 
 
-Leylinie 
+Leylinie
 Holz
 8 Energie
 Aura
@@ -763,7 +766,7 @@ Brutal
 
 
 Transzendiertes Teehaus
-Holz 
+Holz
 3 Energie
 Gebäude
 Blüte: Erzeuge 1 Energie
@@ -835,7 +838,7 @@ Aktiviere die Blüte Fähigkeit einer verbündeten Permanenten.
 Ziehe 1 Karte.
 
 
-Trochghet, Die Erlösung Neugeboren 
+Trochghet, Die Erlösung Neugeboren
 Metall
 0 Energie
 Legendäres Artefakt: Ausrüstung
@@ -944,7 +947,7 @@ Wenn du Geist der Ruine spielst beschwöre einen Splitter-Spielstein.
 
 
 Parasitäre Rüstung
-Metall 
+Metall
 2 Energie
 Artefakt: Ausrüstung
 Blitzschnell
@@ -998,9 +1001,9 @@ Aktion
 Blitzschnell
 Upgrade: Werfe 1 Karte ab.
 Wähle 1 aus:
--	Beschwöre 2 Splitter-Spielsteine.
--	Schicke Zwei Karten deiner Wahl aus einem Friedhof ins Exil.
--	Ein verbündeter Charakter deiner Wahl und ein gegnerischer Charakter deiner Wahl schlagen sich gegenseitig.
+- Beschwöre 2 Splitter-Spielsteine.
+- Schicke Zwei Karten deiner Wahl aus einem Friedhof ins Exil.
+- Ein verbündeter Charakter deiner Wahl und ein gegnerischer Charakter deiner Wahl schlagen sich gegenseitig.
 Wenn du diese Karte geupgradet hast, kostet sie 2 Energie weniger zu spielen.
 
 
@@ -1053,7 +1056,7 @@ Aktion
 Ziehe X Karten wobei X die Stärke deines Helden ist.
 
 
-Verirrte Seele 
+Verirrte Seele
 Metall
 4 Energie
 Charakter Geist Krieger
@@ -1070,8 +1073,8 @@ Ausgerüsteter Charakter erhält +1+0
 Wenn du Annie und Bonnie spielst, beschwöre einen Splitterspielstein.
 
 
-Treue Schild-Maid 
-Metall 
+Treue Schild-Maid
+Metall
 3 Energie
 Charakter Mensch Kriegerin
 Ausrüstungen die du spielst kosten 1 Energie weniger.
@@ -1080,7 +1083,7 @@ Tapfer
 
 
 Egelsklinge
-Metall 
+Metall
 5 Energie
 Multi Upgrade: Füge dem Dorf 2 Schaden zu
 Der ausgerüstete Charakter erhält +2/+2.
@@ -1110,12 +1113,13 @@ Schicke Schwelle zur Anderen Welt ins Exil.
 
 
 Vasall
+Wasser
 Charakter-Spielstein: Fae
 1/1
 
 
 Leigh, Naive Hexe
-Wasser 
+Wasser
 Charakter- Heldin Mensch Magierin
 Erschöpfe mich: Decke die obersten 2 Karten deines Decks auf. Nehme einen Zauber oder eine Aura die so aufgedeckt wurde auf die Hand und lege den Rest in deinen Friedhof.
 1/4
@@ -1131,7 +1135,7 @@ Wenn du diese Karte geupgradet hast, führe zuerst Hellsicht 2 aus dann ziehe 2 
 
 
 Fae Beschwörung
-Wasser 
+Wasser
 2 Energie
 Aktion-Zauber
 Beschwöre 2 Vasallen-Spielsteine.
@@ -1156,23 +1160,23 @@ Lege zwei Schock-Marken auf einen Charakter deiner Wahl.
 
 
 Heroischer Hausgeist
-Wasser 
+Wasser
 2 Energie
 Charakter: Fae Hund
 Wenn der heroische Hausgeist Schaden an der Festung macht, ziehe 1 Karte.
 Listig
-1/2 
+1/2
 
 
 Weisheit der Ältesten
-Wasser 
+Wasser
 4 Energie
 Aktion: Zauber
 Durchsuche dein Deck nach einem Zauber oder einer Aura und nehme sie auf die Hand.
 
 
 Turm des Zauberers
-Wasser 
+Wasser
 5 Energie
 Gebäude
 Immer wenn du einen Zauber oder eine Aura spielst, nehme einen Zauber oder eine Aura aus dem Friedhof auf die Hand zurück.
@@ -1187,7 +1191,7 @@ Führe Hellsicht 1 in deiner Erholungsphase aus.
 
 
 Drittes Auge
-Wasser 
+Wasser
 3 Energie
 Aura
 Verzaubere einen Charakter.
@@ -1235,7 +1239,7 @@ Artefakt: Ausrüstung
 Immer wenn du einen Zauber oder eine Aura spielst erhält der ausgerüstete Charakter +1+1 bis zum Ende dieses Zuges.
 
 
-Rune der Nebelkinder 
+Rune der Nebelkinder
 Wasser
 4 Energie
 Aura
@@ -1249,8 +1253,8 @@ Wasser
 Aktion: Zauber
 Blitzschnell
 Wähle 1 aus
--	Das Spielen 1 Fallen-Karte deiner Wahl misslingt.
--	Zerstöre eine Aura deiner Wahl.
+- Das Spielen 1 Fallen-Karte deiner Wahl misslingt.
+- Zerstöre eine Aura deiner Wahl.
 
 
 Seifenblasen Hasen
@@ -1287,9 +1291,9 @@ Blitzschnell
 Upgrade: 2 Energie
 Vorhersage 3
 Wähle 1:
--	Erschöpfe einen Charakter deiner Wahl, dann lege eine Schock-Marke auf diese Kreatur.
--	Eine Kreatur deiner Wahl erhält Listig bis zum Ende des Zuges.
--	Ziehe 2 Karten, dann werfe eine Karte ab.
+- Erschöpfe einen Charakter deiner Wahl, dann lege eine Schock-Marke auf diese Kreatur.
+- Eine Kreatur deiner Wahl erhält Listig bis zum Ende des Zuges.
+- Ziehe 2 Karten, dann werfe eine Karte ab.
 Wenn dieser Zauber geupgradet wurde, verliert er Vorhersage 3.
 
 
@@ -1303,8 +1307,8 @@ Das spielen einer Karte deiner Wahl misslingt.
 
 
 Kopie Katze
-Wasser	
-4 Energie 
+Wasser
+4 Energie
 Charakter: Fae Katze
 Wenn du Kopie Katze spielst verwandele sie in eine Kopie eines verbündeten Charakters der kein Held ist, aber ihr Name ist Kopie Katze und sie bleibt eine 2/2.
 2 Energie und Erschöpfe mich: Eine Spielerin deiner Wahl erhält die Kontrolle über mich.
