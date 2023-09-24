@@ -9,3 +9,4 @@ import { getDeckList } from "./getCardList";
 genPrintable(getCards('cardList'))
 //genPrintable(getDeckList('exampleList'))
 
+
