@@ -647,14 +647,14 @@ Alle Karten deiner Verbündeten erhalten Teamarbeit
 
 Weckruf des Waldes
 Holz
-X+2
+X+2 Energie
 Aktion: Zauber
 Beschwöre ½ X Verbündeten-Spielsteine
 
 
 Mahays Segen
 Holz
-X+1
+X+1 Energie
 Aktion: Zauber
 Blitzschnell
 Lege X +1/+1 Marken auf einen Charakter deiner Wahl
@@ -751,7 +751,7 @@ Holz
 8 Energie
 Aura
 Team-Arbeit
-Wenn du Leyline spielst, lege die untersten 2 Karten deines Decks erschöpft in deinen Energiepool.
+Wenn du Leylinie spielst, lege die untersten 2 Karten deines Decks erschöpft in deinen Energiepool.
 Bezahle 3 Energie: Ziehe 1 Karte
 
 
@@ -783,7 +783,7 @@ Blüte: Gefräßiger Alligator und ein gegnerischer Charakter deiner Wahl schlag
 
 Unsterbliches Wissen
 Holz
-X+2
+X+2 Energie
 Aktion: Zauber
 Vorhersage 1
 Ziehe X Karten.
@@ -792,6 +792,7 @@ Ziehe X Karten.
 Leylinien Wanderer
 Holz
 4 Energie
+Charakter: Elementar Kruv
 Bezahle 3 Energie: Decke die unterste Karte deines Decks auf und lege sie erschöpft in deinen Energiepool.
 3/2
 
