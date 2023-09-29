@@ -223,7 +223,7 @@ Artefakt: Ausrüstung
 Der ausgerüstete Charakter erhält +1/+1 und Heilig.
 
 
-Heroischer Hirtenjunge
+Verträumter Bauernjunge
 Erde
 1 Energie
 Charakter: Mensch
@@ -625,7 +625,7 @@ Holz
 X+2 Energie
 Charakter: Elementar Bestie
 Wenn du Massives Mammut spielst lege X +1/+1 Marken auf Massives Mammut.
-Brutal, Zäh
+Brutal
 1/1
 
 

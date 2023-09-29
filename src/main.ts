@@ -5,8 +5,6 @@ import { getCards } from "./getCardInfo";
 import { setCardList } from "./setCardList";
 import { getDeckList } from "./getCardList";
 
-//setCardList('cardList')
-genPrintable(getCards('cardList'))
-//genPrintable(getDeckList('exampleList'))
-
-
+setCardList('cardList')
+//genPrintable(getCards('cardList'))
+genPrintable(getDeckList('exampleList'))

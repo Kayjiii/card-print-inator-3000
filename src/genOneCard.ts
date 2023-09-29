@@ -18,7 +18,7 @@ const statHeight = 1000
 const statwidth = 240
 
 const manaFontSize = 60
-const manawidth = 140
+const manawidth = 170
 
 export function genOneCard(card: Card, destination:string) {
 
@@ -105,7 +105,7 @@ function addMana(mana:string, ctx:CanvasRenderingContext2D, canvaswidth:number) 
     ctx.font = manaFontSize + 'px "Comic Sans"'
     if (value != null) {
         let width = ctx.measureText(value[0]).width
-        ctx.fillText(value[0], canvaswidth - (manawidth / 2 + width), 90)
+        ctx.fillText(value[0], canvaswidth - (manawidth / 2 + width / 2), 90)
     }
 }
 

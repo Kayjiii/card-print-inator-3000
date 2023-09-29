@@ -4,16 +4,16 @@ exports.genOneCard = void 0;
 const canvas_1 = require("canvas");
 const fs_1 = require("fs");
 const textMargin = 50;
-let borderMargin = 30;
-let nameFontSize = 80;
-let typeFontSize = 60;
-let contentFontSize = 40;
-let contentTextHeight = 300;
-let statFontSize = 60;
-let statHeight = 1000;
-let statwidth = 240;
-let manaFontSize = 60;
-let manawidth = 140;
+const borderMargin = 30;
+const nameFontSize = 80;
+const typeFontSize = 50;
+const contentFontSize = 40;
+const contentTextHeight = 300;
+const statFontSize = 60;
+const statHeight = 1000;
+const statwidth = 240;
+const manaFontSize = 60;
+const manawidth = 170;
 function genOneCard(card, destination) {
     (0, canvas_1.registerFont)('ComicSans.ttf', { family: 'Comic Sans' });
     const canvas = (0, canvas_1.createCanvas)(750, 1050);
@@ -71,17 +71,18 @@ function addName(name, ctx, canvaswidth) {
     let namewidth = ctx.measureText(name).width;
     let maxwidth = canvaswidth - (textMargin + manawidth);
     if (namewidth > maxwidth) {
-        nameFontSize = nameFontSize * maxwidth / namewidth;
-        ctx.font = nameFontSize + 'px "Comic Sans"';
+        let currentFontSize = nameFontSize;
+        currentFontSize = currentFontSize * maxwidth / namewidth;
+        ctx.font = currentFontSize + 'px "Comic Sans"';
     }
-    ctx.fillText(name, textMargin, 90);
+    ctx.fillText(name, textMargin, 100);
 }
 function addMana(mana, ctx, canvaswidth) {
     let value = mana.match(/^(.*?)(?= Energie)/);
     ctx.font = manaFontSize + 'px "Comic Sans"';
     if (value != null) {
         let width = ctx.measureText(value[0]).width;
-        ctx.fillText(value[0], canvaswidth - (manawidth / 2 + width), 90);
+        ctx.fillText(value[0], canvaswidth - (manawidth / 2 + width / 2), 90);
     }
 }
 function addType(type, ctx, canvaswidth) {
@@ -89,8 +90,9 @@ function addType(type, ctx, canvaswidth) {
     let typewidth = ctx.measureText(type).width;
     let maxwidth = canvaswidth - (textMargin * 2);
     if (typewidth > maxwidth) {
-        typeFontSize = typeFontSize * maxwidth / typewidth;
-        ctx.font = typeFontSize + 'px "Comic Sans"';
+        let currentFontSize = typeFontSize;
+        currentFontSize = currentFontSize * maxwidth / typewidth;
+        ctx.font = currentFontSize + 'px "Comic Sans"';
     }
     ctx.fillText(type, textMargin, 200);
 }

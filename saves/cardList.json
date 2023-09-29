@@ -731,7 +731,7 @@
     "name": "Massives Mammut",
     "element": "Holz",
     "type": "Charakter: Elementar Bestie",
-    "content": "\nWenn du Massives Mammut spielst lege X +1/+1 Marken auf Massives Mammut.\nBrutal, Zäh\n",
+    "content": "\nWenn du Massives Mammut spielst lege X +1/+1 Marken auf Massives Mammut.\nBrutal\n",
     "mana": "X+2 Energie",
     "statline": "1/1"
   },
@@ -1104,7 +1104,7 @@
     "statline": "3/3"
   },
   {
-    "name": "Heroischer Hirtenjunge",
+    "name": "Verträumter Bauernjunge",
     "element": "Erde",
     "type": "Charakter: Mensch",
     "content": "\nImmer wenn du einen Charakter beschwörst oder spielst lege eine +1/+1 Marke auf Verträumter Bauernjunge.\nTapfer\n",

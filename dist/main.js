@@ -1,9 +1,9 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const genPrintable_1 = require("./genPrintable");
-const getCardInfo_1 = require("./getCardInfo");
 const setCardList_1 = require("./setCardList");
+const getCardList_1 = require("./getCardList");
 (0, setCardList_1.setCardList)('cardList');
-(0, genPrintable_1.genPrintable)((0, getCardInfo_1.getCards)('cardList'));
-//genPrintable(getDeckList('exampleList'))
+//genPrintable(getCards('cardList'))
+(0, genPrintable_1.genPrintable)((0, getCardList_1.getDeckList)('exampleList'));
 //# sourceMappingURL=main.js.map
