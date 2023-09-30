@@ -7,7 +7,7 @@ Wachsam
 
 Alidh, Held des Dorfes
 Erde
-Charakter-Heldin: Mensch Kriegerin
+Legendärer Charakter-Heldin: Mensch Kriegerin
 Immer wenn Alidh blockt, beschwöre einen Wache-Spielstein.
 Tapfer, Wachsam, Zäh
 2/4
@@ -34,7 +34,7 @@ Du kannst Karten die Reisender Händler ins Exil geschickt hat spielen.
 Shnort, Mürrischer Lehrmeister
 Erde
 3 Energie
-Charakter: Mensch Krieger
+Legendärer Charakter: Mensch Krieger
 Immer wenn du einen Charakter beschwörst oder spielst, lege eine +1/+1 Marke auf den Charakter.
 2/3
 
@@ -58,7 +58,7 @@ Heilig
 Trunkenbolds Gold, Stamm-Taverne
 Erde
 2 Energie
-Gebäude
+Legendäres Gebäude
 Am Ende deines Zuges entferne 2 Schadensmarken von jeder erschöpften Kreatur.
 0/4
 
@@ -158,6 +158,7 @@ Erschöpfe mich, erzeuge 1 Energie.
 Vereintes Manöver
 Erde
 3 Energie
+Aktion
 Blitzschnell
 Multi-Upgrade: Erschöpfe eine Verbündete Kreatur 
 Wähle 1 aus:
@@ -235,7 +236,7 @@ Tapfer
 Toii, Kapitänin der Wache
 Erde
 4 Energie
-Charakter: Mensch Kriegerin
+Legendärer Charakter: Mensch Kriegerin
 2 Energie: Beschwöre einen Wachen-Spielstein.
 Tapfer, Wachsam
 3/3
@@ -284,7 +285,7 @@ Brutal, Rasend, Unzerstörbar
 
 Fynn, Aufstrebender Pyromane
 Feuer
-Charakter-Held: Kobold Magier
+Legendärer Charakter-Held: Kobold Magier
 Immer wenn eine Quelle unter deiner Kontrolle Schaden an der Festung macht, lege eine Pep-Marke auf Fynn.
 Entferne 2 Pep-Marken von Fynn: Füge der Festung 1 Schaden zu.
 1/3
@@ -372,7 +373,7 @@ Ein angreifender Charakter deiner Wahl erhält +2+0 und Geschickt bis zum Ende d
 Sternenschauer, Flamme der Hoffnung
 Feuer
 6 Energie
-Charakter: Elementar-Phoenix
+Legendärer Charakter: Elementar-Phoenix
 Team-Arbeit
 Bezahle 2 Energie: Sternenschauer fügt der Festung 1 Schaden zu.
 Wenn in einem Zug mindestens 3 unterschiedliche Quellen der Festung Schaden zugefügt haben kannst du Sternenschauer in deiner Endphase aus dem Friedhof spielen in dem du 3 Energie zahlst.
@@ -565,7 +566,7 @@ Charakter-Spielstein: Elementar Bestie
 
 Darak, Suchender Sprössling
 Holz
-Charakter-Held: Elementar Kruv Schamane
+Legendärer Charakter-Held: Elementar Kruv Schamane
 Erschöpfe mich und lege eine Schockmarke auf mich: Decke die unterste Karte deines Decks auf und lege sie in deinen Energiepool.
 2/3
 
@@ -611,7 +612,7 @@ Lege die unterste Karte deines Decks in deinen Energiepool.
 Grünfinger, der Gewaltige
 Holz
 4 Energie
-Charakter: Elementar Kruv
+Legendärer Charakter: Elementar Kruv
 Wenn du Grünfinger spielst darf jede deiner Mitspielerin einen Charakter erschöpfen den sie kontrolliert.
 Falls so ein Feuer Charakter erschöpft wurde erhält Grünfinger Brutal.
 Falls so ein Wasser Charakter erschöpft ziehe 2 Karten.
@@ -625,7 +626,7 @@ Holz
 X+2 Energie
 Charakter: Elementar Bestie
 Wenn du Massives Mammut spielst lege X +1/+1 Marken auf Massives Mammut.
-Brutal
+Brutal, Tollkühn
 1/1
 
 
@@ -720,7 +721,7 @@ Brutal, Wild, Zäh
 
 Rituale der Ahnen
 Holz
-X+1 Energie 
+X+1 Energie
 Aktion: Zauber
 Blitzschnell
 Wähle 1 aus:
@@ -854,7 +855,7 @@ Der ausgerüstete Charakter erhält +1+0.
 
 Lu, Gewählte des Krieges
 Metall
-Charakter-Heldin: Geist Kriegerin
+Legendärer Charakter-Heldin: Geist Kriegerin
 Immer wenn Lu einen Charakter tötet, lege eine +1/+1 Marke auf Lu.
 Geschickt, Tollkühn, Waffenmeister
 2/2
@@ -910,7 +911,7 @@ Der Ausgerüstete Charakter Erhält +1/+2, Tapfer und Wachsam.
 Dwerach, Welches im Blut badet
 Metall
 6 Energie
-Artefakt: Ausrüstung
+Legendäres Artefakt: Ausrüstung
 Um diese Karte zu spielen musst du eine andere Karte abwerfen.
 Der ausgerüstete Charakter erhält +3/+0 Brutal und Wild.
 
@@ -926,7 +927,7 @@ Wenn du Schmied der Schwarzen Schmiede spielst decke die oberste Karte deines De
 Riuchgul, Stählerne Friedhof
 Metall
 5 Energie
-Gebäude
+Legendäres Gebäude
 Immer wenn ein verbündeter Charakter mit Waffenmeister angreift, kannst du zwei Splitter-Spielstein beschwören und den angreifenden Charakter damit ausrüsten.
 0/6
 
@@ -1121,7 +1122,7 @@ Charakter-Spielstein: Fae
 
 Leigh, Naive Hexe
 Wasser
-Charakter- Heldin Mensch Magierin
+Legendärer Charakter- Heldin Mensch Magierin
 Erschöpfe mich: Decke die obersten 2 Karten deines Decks auf. Nehme einen Zauber oder eine Aura die so aufgedeckt wurde auf die Hand und lege den Rest in deinen Friedhof.
 1/4
 
@@ -1319,7 +1320,7 @@ Wenn du Kopie Katze spielst verwandele sie in eine Kopie eines verbündeten Char
 Ard, Magischer Spiegel
 Wasser
 6 Energie
-Artefakt
+Legendäres Artefakt
 In deiner Erfrischungsphase ziehen alle Spielerinnen 1 Karte.
 
 
@@ -1359,7 +1360,7 @@ Immer wenn du einen Zauber oder eine Aura spielst, erfrische 2 Karten in deinem 
 Santiago, Segelnder Künstler
 Wasser
 6 Energie
-Charakter: Mensch Magier
+Legendärer Charakter: Mensch Magier
 Immer wenn du eine Aura oder einen Zauber spielst, kopiere die Karte. Die Energiekosten der Kopie sind 0.
 3/4
 

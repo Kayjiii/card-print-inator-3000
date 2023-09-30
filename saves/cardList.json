@@ -18,7 +18,7 @@
   {
     "name": "Santiago, Segelnder Künstler",
     "element": "Wasser",
-    "type": "Charakter: Mensch Magier",
+    "type": "Legendärer Charakter: Mensch Magier",
     "content": "\nImmer wenn du eine Aura oder einen Zauber spielst, kopiere die Karte. Die Energiekosten der Kopie sind 0.\n",
     "mana": "6 Energie",
     "statline": "3/4"
@@ -58,7 +58,7 @@
   {
     "name": "Ard, Magischer Spiegel",
     "element": "Wasser",
-    "type": "Artefakt",
+    "type": "Legendäres Artefakt",
     "content": "\nIn deiner Erfrischungsphase ziehen alle Spielerinnen 1 Karte.\n",
     "mana": "6 Energie",
     "statline": ""
@@ -242,7 +242,7 @@
   {
     "name": "Leigh, Naive Hexe",
     "element": "Wasser",
-    "type": "Charakter- Heldin Mensch Magierin",
+    "type": "Legendärer Charakter- Heldin Mensch Magierin",
     "content": "\nErschöpfe mich: Decke die obersten 2 Karten deines Decks auf. Nehme einen Zauber oder eine Aura die so aufgedeckt wurde auf die Hand und lege den Rest in deinen Friedhof.\n",
     "mana": "",
     "statline": "1/4"
@@ -434,7 +434,7 @@
   {
     "name": "Riuchgul, Stählerne Friedhof",
     "element": "Metall",
-    "type": "Gebäude",
+    "type": "Legendäres Gebäude",
     "content": "\nImmer wenn ein verbündeter Charakter mit Waffenmeister angreift, kannst du zwei Splitter-Spielstein beschwören und den angreifenden Charakter damit ausrüsten.\n",
     "mana": "5 Energie",
     "statline": "0/6"
@@ -450,7 +450,7 @@
   {
     "name": "Dwerach, Welches im Blut badet",
     "element": "Metall",
-    "type": "Artefakt: Ausrüstung",
+    "type": "Legendäres Artefakt: Ausrüstung",
     "content": "\nUm diese Karte zu spielen musst du eine andere Karte abwerfen.\nDer ausgerüstete Charakter erhält +3/+0 Brutal und Wild.\n",
     "mana": "6 Energie",
     "statline": ""
@@ -506,7 +506,7 @@
   {
     "name": "Lu, Gewählte des Krieges",
     "element": "Metall",
-    "type": "Charakter-Heldin: Geist Kriegerin",
+    "type": "Legendärer Charakter-Heldin: Geist Kriegerin",
     "content": "\nImmer wenn Lu einen Charakter tötet, lege eine +1/+1 Marke auf Lu.\nGeschickt, Tollkühn, Waffenmeister\n",
     "mana": "",
     "statline": "2/2"
@@ -634,9 +634,9 @@
   {
     "name": "Rituale der Ahnen",
     "element": "Holz",
-    "type": "X+1 Energie ",
-    "content": "\nAktion: Zauber\nBlitzschnell\nWähle 1 aus:\n- Verteile X +1/+1 Marken auf verbündeten Charakteren.\n- Beschwöre 1/3 X (aufgerundet) Verbündeten Spielsteine.\n- Decke die obersten X Karten deines Decks auf, nehme 2 der aufgedeckten Karten auf die Hand und mische den Rest in dein Deck zurück.\n",
-    "mana": "",
+    "type": "Aktion: Zauber",
+    "content": "\nBlitzschnell\nWähle 1 aus:\n- Verteile X +1/+1 Marken auf verbündeten Charakteren.\n- Beschwöre 1/3 X (aufgerundet) Verbündeten Spielsteine.\n- Decke die obersten X Karten deines Decks auf, nehme 2 der aufgedeckten Karten auf die Hand und mische den Rest in dein Deck zurück.\n",
+    "mana": "X+1 Energie",
     "statline": ""
   },
   {
@@ -731,14 +731,14 @@
     "name": "Massives Mammut",
     "element": "Holz",
     "type": "Charakter: Elementar Bestie",
-    "content": "\nWenn du Massives Mammut spielst lege X +1/+1 Marken auf Massives Mammut.\nBrutal\n",
+    "content": "\nWenn du Massives Mammut spielst lege X +1/+1 Marken auf Massives Mammut.\nBrutal, Tollkühn\n",
     "mana": "X+2 Energie",
     "statline": "1/1"
   },
   {
     "name": "Grünfinger, der Gewaltige",
     "element": "Holz",
-    "type": "Charakter: Elementar Kruv",
+    "type": "Legendärer Charakter: Elementar Kruv",
     "content": "\nWenn du Grünfinger spielst darf jede deiner Mitspielerin einen Charakter erschöpfen den sie kontrolliert.\nFalls so ein Feuer Charakter erschöpft wurde erhält Grünfinger Brutal.\nFalls so ein Wasser Charakter erschöpft ziehe 2 Karten.\nFalls so ein Erde Charakter erschöpft wurde erhält Grünfinger Tapfer.\nFalls so ein Metall Charakter erschöpft wurde erhält Grünfinger Zäh.\n",
     "mana": "4 Energie",
     "statline": "4/4"
@@ -786,7 +786,7 @@
   {
     "name": "Darak, Suchender Sprössling",
     "element": "Holz",
-    "type": "Charakter-Held: Elementar Kruv Schamane",
+    "type": "Legendärer Charakter-Held: Elementar Kruv Schamane",
     "content": "\nErschöpfe mich und lege eine Schockmarke auf mich: Decke die unterste Karte deines Decks auf und lege sie in deinen Energiepool.\n",
     "mana": "",
     "statline": "2/3"
@@ -962,7 +962,7 @@
   {
     "name": "Sternenschauer, Flamme der Hoffnung",
     "element": "Feuer",
-    "type": "Charakter: Elementar-Phoenix",
+    "type": "Legendärer Charakter: Elementar-Phoenix",
     "content": "\nTeam-Arbeit\nBezahle 2 Energie: Sternenschauer fügt der Festung 1 Schaden zu.\nWenn in einem Zug mindestens 3 unterschiedliche Quellen der Festung Schaden zugefügt haben kannst du Sternenschauer in deiner Endphase aus dem Friedhof spielen in dem du 3 Energie zahlst.\nListig\n",
     "mana": "6 Energie",
     "statline": "3/4"
@@ -1050,7 +1050,7 @@
   {
     "name": "Fynn, Aufstrebender Pyromane",
     "element": "Feuer",
-    "type": "Charakter-Held: Kobold Magier",
+    "type": "Legendärer Charakter-Held: Kobold Magier",
     "content": "\nImmer wenn eine Quelle unter deiner Kontrolle Schaden an der Festung macht, lege eine Pep-Marke auf Fynn.\nEntferne 2 Pep-Marken von Fynn: Füge der Festung 1 Schaden zu.\n",
     "mana": "",
     "statline": "1/3"
@@ -1098,7 +1098,7 @@
   {
     "name": "Toii, Kapitänin der Wache",
     "element": "Erde",
-    "type": "Charakter: Mensch Kriegerin",
+    "type": "Legendärer Charakter: Mensch Kriegerin",
     "content": "\n2 Energie: Beschwöre einen Wachen-Spielstein.\nTapfer, Wachsam\n",
     "mana": "4 Energie",
     "statline": "3/3"
@@ -1170,8 +1170,8 @@
   {
     "name": "Vereintes Manöver",
     "element": "Erde",
-    "type": "Blitzschnell",
-    "content": "\nMulti-Upgrade: Erschöpfe eine Verbündete Kreatur \nWähle 1 aus:\n- Verbündete Charaktere erhalten Unzerstörbar bis zum Ende des Zuges.\n- Ein Charakter deiner Wahl erhält Heilig.\n- Zerstöre eine Aura deiner Wahl.\nFür jedes Mal das diese Karte geupgradet wurde wähle einen weiteren Modus, du kannst den gleichen Modus nicht zweimal wählen.\n",
+    "type": "Aktion",
+    "content": "\nBlitzschnell\nMulti-Upgrade: Erschöpfe eine Verbündete Kreatur \nWähle 1 aus:\n- Verbündete Charaktere erhalten Unzerstörbar bis zum Ende des Zuges.\n- Ein Charakter deiner Wahl erhält Heilig.\n- Zerstöre eine Aura deiner Wahl.\nFür jedes Mal das diese Karte geupgradet wurde wähle einen weiteren Modus, du kannst den gleichen Modus nicht zweimal wählen.\n",
     "mana": "3 Energie",
     "statline": ""
   },
@@ -1266,7 +1266,7 @@
   {
     "name": "Trunkenbolds Gold, Stamm-Taverne",
     "element": "Erde",
-    "type": "Gebäude",
+    "type": "Legendäres Gebäude",
     "content": "\nAm Ende deines Zuges entferne 2 Schadensmarken von jeder erschöpften Kreatur.\n",
     "mana": "2 Energie",
     "statline": "0/4"
@@ -1290,7 +1290,7 @@
   {
     "name": "Shnort, Mürrischer Lehrmeister",
     "element": "Erde",
-    "type": "Charakter: Mensch Krieger",
+    "type": "Legendärer Charakter: Mensch Krieger",
     "content": "\nImmer wenn du einen Charakter beschwörst oder spielst, lege eine +1/+1 Marke auf den Charakter.\n",
     "mana": "3 Energie",
     "statline": "2/3"
@@ -1314,7 +1314,7 @@
   {
     "name": "Alidh, Held des Dorfes",
     "element": "Erde",
-    "type": "Charakter-Heldin: Mensch Kriegerin",
+    "type": "Legendärer Charakter-Heldin: Mensch Kriegerin",
     "content": "\nImmer wenn Alidh blockt, beschwöre einen Wache-Spielstein.\nTapfer, Wachsam, Zäh\n",
     "mana": "",
     "statline": "2/4"
