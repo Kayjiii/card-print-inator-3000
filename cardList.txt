@@ -567,7 +567,7 @@ Charakter-Spielstein: Elementar Bestie
 Darak, Suchender Sprössling
 Holz
 Legendärer Charakter-Held: Elementar Kruv Schamane
-Erschöpfe mich und lege eine Schockmarke auf mich: Decke die unterste Karte deines Decks auf und lege sie in deinen Energiepool.
+Erschöpfe mich und lege eine Schockmarke auf mich: Decke die unterste Karte deines Decks auf und lege sie erschöpft in deinen Energiepool.
 2/3
 
 

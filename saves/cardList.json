@@ -787,7 +787,7 @@
     "name": "Darak, Suchender Sprössling",
     "element": "Holz",
     "type": "Legendärer Charakter-Held: Elementar Kruv Schamane",
-    "content": "\nErschöpfe mich und lege eine Schockmarke auf mich: Decke die unterste Karte deines Decks auf und lege sie in deinen Energiepool.\n",
+    "content": "\nErschöpfe mich und lege eine Schockmarke auf mich: Decke die unterste Karte deines Decks auf und lege sie erschöpft in deinen Energiepool.\n",
     "mana": "",
     "statline": "2/3"
   },
