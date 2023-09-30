@@ -72,7 +72,7 @@ function addBorders(element: string, ctx: CanvasRenderingContext2D, canvaswidth:
             borderColor = "red"
             break
 
-        case "Korrumpiert":
+        case "Korrupt":
             borderColor = "purple"
             break
 

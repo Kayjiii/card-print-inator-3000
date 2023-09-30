@@ -877,7 +877,7 @@ Der Ausgerüstete Charakter erhält +1/+1.
 Immer wenn der ausgerüstete Charakter einen Charakter tötet, Ziehe 1 Karte.
 
 
-Glamschett, Seelen Dieb 
+Glamschett, Seelen Dieb
 Metall
 2 Energie
 Legendäres Artefakt: Ausrüstung
@@ -1379,3 +1379,227 @@ Aktion Zauber
 2 Energie
 Blitzschnell
 Kopiere eine Aktions-Karte deiner Wahl der von dir oder einer deiner Mitspielerinnen gespielt wurde. Die Kosten der Kopie sind 0.
+
+
+Mutter aller Mokk
+Korrupt
+Legendärer Charakter-Spielstein: Mokk
+Alle Mokk erhalten Unzerstörbar
+Du kannst Mokks aus deinem Friedhof spielen
+7/7
+
+
+Meister der Mokk
+Korrupt
+Legendärer Charakter-Spielstein: Mokk
+Unzerstörbar
+Immer wenn du einen Mokk spielst decke die oberste Karte deines Decks auf bis du einen Mokk aufdeckst der genauso viel oder weniger Energie kostet, du kannst diesen Mokk spielen ohne seine Energiekosten zu zahlen.
+3/3
+
+
+Mokk-Spielstein
+Korrupt
+Charakter-Mokk
+1/1
+
+
+Misstrauischer Mokk
+Korrupt
+1 Energie
+Charakter-Mokk
+Alle verbündeten Mokks erhalten Wachsam
+2/2
+
+
+Mächtiger Mokk
+Korrupt
+7 Energie
+Charakter-Mokk
+Alle verbündeten Mokks erhalten +2/+0 und Brutal
+6/6
+
+
+Mutiger Mokk
+Korrupt
+6 Energie
+Charakter-Mokk
+Alle verbündeten Mokk erhalten Tollkühn
+5/5
+
+
+Metallischer Mokk
+Korrupt
+5 Energie
+Charakter-Mokk
+Alle verbündeten Mokk erhalten +0/+2 und Zäh
+4/4
+
+
+Manischer Mokk
+Korrupt
+2 Energie
+Charakter Mokk
+Alle verbündeten Mokks erhalten Rasend
+2/3
+
+
+Mickriger Mokk
+Korrupt
+1 Energie
+Charakter Mokk
+Alle verbündeten Mokks erhalten +1/+1
+1/1
+
+
+Mannigfacher Mokk
+Korrupt
+4 Energie
+Charakter Mokk
+Alle verbündeten Mokks erhalten „Wenn ich angreife beschwöre einen Mokk-Spielstein“
+3/3
+
+
+Manipulativer Mokk
+Korrupt
+3 Energie
+Charakter Mokk
+Alle verbündeten Mokks erhalten „Wenn ich angreife muss eine Spielerin deiner Wahl eine Karte abwerfen“
+3/3
+
+
+Marter Mokk
+Korrupt
+2 Energie
+Charakter-Mokk
+Alle verbündeten Mokks erhalten „Opfere mich: gebe einem anderen Mokk Unzerstörbar bis zum Ende des Zuges“
+2/2
+
+
+Magmatischer Mokk
+Korrupt
+3 Energie
+Charakter-Mokk
+Alle verbündeten Mokks erhalten „Wenn ich angreife füge einem Nicht-Held Charakter deiner Wahl 1 Schaden zu“
+3/3
+
+
+Matschiger Mokk
+Korrupt
+5 Energie
+Charakter-Mokk
+Alle verbündeten Mokk erhalten „Wenn ich geblockt werde lege eine Schock-Marke auf den Charakter der mich blockt und erschöpfe ihn“
+5/5
+
+
+Massiver Mokk
+Korrupt
+6 Energie
+Charakter-Mokk
+Alle verbündeten Mokks erhalten +2/+2
+6/6
+
+
+Meditativer Mokk
+Korrupt
+1 Energie
+Charakter-Mokk
+Alle verbündeten Mokks erhalten „Erschöpfe mich: Erzeuge ein Mana“
+
+
+Mäßiger Mokk
+Korrupt
+3 Energie
+Charakter-Mokk
+Alle verbündeten Mokks erhalten Geschickt
+3/3
+
+
+Militanter Mokk
+Korrupt
+2 Energie
+Charakter-Mokk
+Alle verbündeten Mokks erhalten Tapfer
+2/2
+
+
+Monströser Mokk
+Korrupt
+5 Energie
+Charakter-Mokk
+Alle verbündeten Mokks erhalten Listig
+4/4
+
+
+Mokk Tunnelwerk
+Korrupt
+4 Energie
+Gebäude
+Immer wenn du einen Mokk spielst, beschwöre einen Mokk-Spielstein
+0/8
+
+
+Mokk Sturm
+Korrupt
+2 Energie
+Gebäude
+X Energie: Beschwöre X Mokk-Spielsteine
+0/6
+
+
+Heiligtum der Mokk
+Korrupt
+6 Energie
+Gebäude
+Alle verbündeten Mokks erhalten Heilig
+0/10
+
+
+Banner der Mokk
+Korrupt
+2 Energie
+Verzauberung
+Alle verbündeten Mokk erhalten +1/+1
+
+
+Mokk Manöver
+Korrupt
+2 Energie
+Aktion
+Multiupgrade 1
+Wähle 1:
+- Alle verbündeten Mokks erhalten Unzerstörbar
+- Bringe einen Mokk deiner Wahl aus deinem Friedhof auf deine Hand zurück
+- Beschwöre 3 Mokk Spielsteine
+Kopiere diesen Zauber für jedes Mal das du diese Karte geupgradet hast, die Energiekosten der Kopien sind 0
+
+
+Megieren
+Korrupt
+2 Energie
+Aktion
+Blitzschnell
+Das spielen einer Karte deiner Wahl misslingt
+
+
+Moord
+Korrupt
+2 Energie
+Aktion
+Blitzschnell
+Zerstöre eine nicht-Held Permanente deiner Wahl
+
+
+Armookeddon
+Korrupt
+Aktion
+10 Energie
+Vorhersage 2
+Zerstöre alle Nicht-Mokk Permanenten
+
+
+Heroischer Feldzug
+Erde
+0 Energie
+Aktion
+Lege 2 +1/+1 Marken auf jeden verbündeten Charakter, verbündete Charaktere erhalten Tollkühn und Unzerstörbar bis zum Ende des Zuges.
+Schicke Heroischen Feldzug ins Exil.

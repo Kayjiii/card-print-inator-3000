@@ -53,7 +53,7 @@ function addBorders(element, ctx, canvaswidth, canvasheight) {
         case "Feuer":
             borderColor = "red";
             break;
-        case "Korrumpiert":
+        case "Korrupt":
             borderColor = "purple";
             break;
         default:

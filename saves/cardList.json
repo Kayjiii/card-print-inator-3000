@@ -1,9 +1,233 @@
 [
   {
+    "name": "Heroischer Feldzug",
+    "element": "Erde",
+    "type": "Aktion",
+    "content": "\nLege 2 +1/+1 Marken auf jeden verbündeten Charakter, verbündete Charaktere erhalten Tollkühn und Unzerstörbar bis zum Ende des Zuges.\nSchicke Heroischen Feldzug ins Exil.",
+    "mana": "0 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Armookeddon",
+    "element": "Korrupt",
+    "type": "Aktion",
+    "content": "\nVorhersage 2\nZerstöre alle Nicht-Mokk Permanenten\n",
+    "mana": "10 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Moord",
+    "element": "Korrupt",
+    "type": "Aktion",
+    "content": "\nBlitzschnell\nZerstöre eine nicht-Held Permanente deiner Wahl\n",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Megieren",
+    "element": "Korrupt",
+    "type": "Aktion",
+    "content": "\nBlitzschnell\nDas spielen einer Karte deiner Wahl misslingt\n",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Mokk Manöver",
+    "element": "Korrupt",
+    "type": "Aktion",
+    "content": "\nMultiupgrade 1\nWähle 1:\n- Alle verbündeten Mokks erhalten Unzerstörbar\n- Bringe einen Mokk deiner Wahl aus deinem Friedhof auf deine Hand zurück\n- Beschwöre 3 Mokk Spielsteine\nKopiere diesen Zauber für jedes Mal das du diese Karte geupgradet hast, die Energiekosten der Kopien sind 0\n",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Banner der Mokk",
+    "element": "Korrupt",
+    "type": "Verzauberung",
+    "content": "\nAlle verbündeten Mokk erhalten +1/+1\n",
+    "mana": "2 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Heiligtum der Mokk",
+    "element": "Korrupt",
+    "type": "Gebäude",
+    "content": "\nAlle verbündeten Mokks erhalten Heilig\n",
+    "mana": "6 Energie",
+    "statline": "0/10"
+  },
+  {
+    "name": "Mokk Sturm",
+    "element": "Korrupt",
+    "type": "Gebäude",
+    "content": "\nX Energie: Beschwöre X Mokk-Spielsteine\n",
+    "mana": "2 Energie",
+    "statline": "0/6"
+  },
+  {
+    "name": "Mokk Tunnelwerk",
+    "element": "Korrupt",
+    "type": "Gebäude",
+    "content": "\nImmer wenn du einen Mokk spielst, beschwöre einen Mokk-Spielstein\n",
+    "mana": "4 Energie",
+    "statline": "0/8"
+  },
+  {
+    "name": "Monströser Mokk",
+    "element": "Korrupt",
+    "type": "Charakter-Mokk",
+    "content": "\nAlle verbündeten Mokks erhalten Listig\n",
+    "mana": "5 Energie",
+    "statline": "4/4"
+  },
+  {
+    "name": "Militanter Mokk",
+    "element": "Korrupt",
+    "type": "Charakter-Mokk",
+    "content": "\nAlle verbündeten Mokks erhalten Tapfer\n",
+    "mana": "2 Energie",
+    "statline": "2/2"
+  },
+  {
+    "name": "Mäßiger Mokk",
+    "element": "Korrupt",
+    "type": "Charakter-Mokk",
+    "content": "\nAlle verbündeten Mokks erhalten Geschickt\n",
+    "mana": "3 Energie",
+    "statline": "3/3"
+  },
+  {
+    "name": "Meditativer Mokk",
+    "element": "Korrupt",
+    "type": "Charakter-Mokk",
+    "content": "\nAlle verbündeten Mokks erhalten „Erschöpfe mich: Erzeuge ein Mana“\n",
+    "mana": "1 Energie",
+    "statline": ""
+  },
+  {
+    "name": "Massiver Mokk",
+    "element": "Korrupt",
+    "type": "Charakter-Mokk",
+    "content": "\nAlle verbündeten Mokks erhalten +2/+2\n",
+    "mana": "6 Energie",
+    "statline": "6/6"
+  },
+  {
+    "name": "Matschiger Mokk",
+    "element": "Korrupt",
+    "type": "Charakter-Mokk",
+    "content": "\nAlle verbündeten Mokk erhalten „Wenn ich geblockt werde lege eine Schock-Marke auf den Charakter der mich blockt und erschöpfe ihn“\n",
+    "mana": "5 Energie",
+    "statline": "5/5"
+  },
+  {
+    "name": "Magmatischer Mokk",
+    "element": "Korrupt",
+    "type": "Charakter-Mokk",
+    "content": "\nAlle verbündeten Mokks erhalten „Wenn ich angreife füge einem Nicht-Held Charakter deiner Wahl 1 Schaden zu“\n",
+    "mana": "3 Energie",
+    "statline": "3/3"
+  },
+  {
+    "name": "Marter Mokk",
+    "element": "Korrupt",
+    "type": "Charakter-Mokk",
+    "content": "\nAlle verbündeten Mokks erhalten „Opfere mich: gebe einem anderen Mokk Unzerstörbar bis zum Ende des Zuges“\n",
+    "mana": "2 Energie",
+    "statline": "2/2"
+  },
+  {
+    "name": "Manipulativer Mokk",
+    "element": "Korrupt",
+    "type": "Charakter Mokk",
+    "content": "\nAlle verbündeten Mokks erhalten „Wenn ich angreife muss eine Spielerin deiner Wahl eine Karte abwerfen“\n",
+    "mana": "3 Energie",
+    "statline": "3/3"
+  },
+  {
+    "name": "Mannigfacher Mokk",
+    "element": "Korrupt",
+    "type": "Charakter Mokk",
+    "content": "\nAlle verbündeten Mokks erhalten „Wenn ich angreife beschwöre einen Mokk-Spielstein“\n",
+    "mana": "4 Energie",
+    "statline": "3/3"
+  },
+  {
+    "name": "Mickriger Mokk",
+    "element": "Korrupt",
+    "type": "Charakter Mokk",
+    "content": "\nAlle verbündeten Mokks erhalten +1/+1\n",
+    "mana": "1 Energie",
+    "statline": "1/1"
+  },
+  {
+    "name": "Manischer Mokk",
+    "element": "Korrupt",
+    "type": "Charakter Mokk",
+    "content": "\nAlle verbündeten Mokks erhalten Rasend\n",
+    "mana": "2 Energie",
+    "statline": "2/3"
+  },
+  {
+    "name": "Metallischer Mokk",
+    "element": "Korrupt",
+    "type": "Charakter-Mokk",
+    "content": "\nAlle verbündeten Mokk erhalten +0/+2 und Zäh\n",
+    "mana": "5 Energie",
+    "statline": "4/4"
+  },
+  {
+    "name": "Mutiger Mokk",
+    "element": "Korrupt",
+    "type": "Charakter-Mokk",
+    "content": "\nAlle verbündeten Mokk erhalten Tollkühn\n",
+    "mana": "6 Energie",
+    "statline": "5/5"
+  },
+  {
+    "name": "Mächtiger Mokk",
+    "element": "Korrupt",
+    "type": "Charakter-Mokk",
+    "content": "\nAlle verbündeten Mokks erhalten +2/+0 und Brutal\n",
+    "mana": "7 Energie",
+    "statline": "6/6"
+  },
+  {
+    "name": "Misstrauischer Mokk",
+    "element": "Korrupt",
+    "type": "Charakter-Mokk",
+    "content": "\nAlle verbündeten Mokks erhalten Wachsam\n",
+    "mana": "1 Energie",
+    "statline": "2/2"
+  },
+  {
+    "name": "Mokk-Spielstein",
+    "element": "Korrupt",
+    "type": "Charakter-Mokk",
+    "content": "\n",
+    "mana": "",
+    "statline": "1/1"
+  },
+  {
+    "name": "Meister der Mokk",
+    "element": "Korrupt",
+    "type": "Legendärer Charakter-Spielstein: Mokk",
+    "content": "\nUnzerstörbar\nImmer wenn du einen Mokk spielst decke die oberste Karte deines Decks auf bis du einen Mokk aufdeckst der genauso viel oder weniger Energie kostet, du kannst diesen Mokk spielen ohne seine Energiekosten zu zahlen.\n",
+    "mana": "",
+    "statline": "3/3"
+  },
+  {
+    "name": "Mutter aller Mokk",
+    "element": "Korrupt",
+    "type": "Legendärer Charakter-Spielstein: Mokk",
+    "content": "\nAlle Mokk erhalten Unzerstörbar\nDu kannst Mokks aus deinem Friedhof spielen\n",
+    "mana": "",
+    "statline": "7/7"
+  },
+  {
     "name": "Spiegeltrick",
     "element": "Wasser",
     "type": "Aktion Zauber",
-    "content": "\nBlitzschnell\nKopiere eine Aktions-Karte deiner Wahl der von dir oder einer deiner Mitspielerinnen gespielt wurde. Die Kosten der Kopie sind 0.",
+    "content": "\nBlitzschnell\nKopiere eine Aktions-Karte deiner Wahl der von dir oder einer deiner Mitspielerinnen gespielt wurde. Die Kosten der Kopie sind 0.\n",
     "mana": "2 Energie",
     "statline": ""
   },
@@ -480,7 +704,7 @@
     "statline": "0/3"
   },
   {
-    "name": "Glamschett, Seelen Dieb ",
+    "name": "Glamschett, Seelen Dieb",
     "element": "Metall",
     "type": "Legendäres Artefakt: Ausrüstung",
     "content": "\nImmer wenn der ausgerüstete Charakter einen Charakter tötet schicke ihn ins Exil.\nDer ausgerüstete Charakter erhält alle Fähigkeiten-Wörter der Charaktere die mit Glamschett ins Exil geschickt wurden.\n",

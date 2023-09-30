@@ -1,9 +1,17 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const genPrintable_1 = require("./genPrintable");
-const setCardList_1 = require("./setCardList");
 const getCardList_1 = require("./getCardList");
-(0, setCardList_1.setCardList)('cardList');
+//setCardList('cardList')
 //genPrintable(getCards('cardList'))
-(0, genPrintable_1.genPrintable)((0, getCardList_1.getDeckList)('exampleList'));
+(0, genPrintable_1.genPrintable)((0, getCardList_1.getDeckList)('listzwei'));
+//const cardList: Card[] = JSON.parse(readFileSync('saves/cardList.json').toString())
+//const items: Card[] = cardList.filter(item => item.element == "Erde" || item.element == "Holz")
+/*
+let outText = ""
+
+for (let i = 0; i < items.length; i++) {
+    outText += "1x " + items[i].name + "\n"
+}
+writeFileSync("single.txt", outText)*/
 //# sourceMappingURL=main.js.map

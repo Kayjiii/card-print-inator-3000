@@ -34,7 +34,7 @@ let emptyCard = {
     statline: ''
 };
 let cards = [];
-const elements = /^(Metall|Feuer|Holz|Erde|Wasser|Korrumpiert)$/;
+const elements = /^(Metall|Feuer|Holz|Erde|Wasser|Korrupt)$/;
 const manaPattern = /^.+ Energie$/;
 const statlinePattern = /^([0-9]+|X)\/([0-9]+|X)$/;
 function getCards(filename) {
